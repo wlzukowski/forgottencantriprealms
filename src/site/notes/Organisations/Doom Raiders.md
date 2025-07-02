@@ -8,7 +8,7 @@
 | **Typ**       | Kompania najemników, Frakcja Zhentarimów                                                               |
 | **Charakter** | Neutralny zły (pragmatyczny)                                                                           |
 | **Zasięg**    | Lokalny (Waterdeep)                                                                                    |
-| **Przywódcy** | [[Characters/Davil Starsong\|Davil Starsong]], [[Istrid Horn\|Istrid Horn]], [[Skeemo Weirdbottle\|Skeemo Weirdbottle]], [[Tashlyn Yafeera\|Tashlyn Yafeera]], [[Ziraj the Hunter\|Ziraj the Hunter]] |
+| **Przywódcy** | [[Characters/Davil Starsong\|Davil Starsong]], [[Istrid Horn\|Istrid Horn]], [[Skeemo Weirdbottle\|Skeemo Weirdbottle]], [[Tashlyn Yafeera\|Tashlyn Yafeera]], [[Characters/Ziraj the Hunter\|Ziraj the Hunter]] |
 | **Siedziba**  | Różne (zobacz niżej)                                                                                   |
 | **Symbol**    | Czarny, skrzydlaty wąż wgryzający się w monetę.                                                        |
 
@@ -51,7 +51,7 @@ Doom Riders są prowadzeni przez radę pięciu mistrzów, z których każdy ma o
 -   **[[Istrid Horn\|Istrid Horn]]:** Mistrzyni Handlu i Monety
 -   **[[Skeemo Weirdbottle\|Skeemo Weirdbottle]]:** Mistrz Magii
 -   **[[Tashlyn Yafeera\|Tashlyn Yafeera]]:** Mistrzyni Broni i Najemników
--   **[[Ziraj the Hunter\|Ziraj the Hunter]]:** Mistrz Skrytobójstwa
+-   **[[Characters/Ziraj the Hunter\|Ziraj the Hunter]]:** Mistrz Skrytobójstwa
 
 ### Rangi
 Doom Riders używają standardowych rang Zhentarimów, ale ich lokalna struktura jest dość płaska, a większość agentów podlega bezpośrednio jednemu z pięciu przywódców.
@@ -62,7 +62,7 @@ Najważniejszym podziałem wewnątrz Zhentarimów jest konflikt między Łupież
 ---
 
 ## Aktywa i zasoby
-- **Militarne:** [[Tashlyn Yafeera\|Tashlyn Yafeera]] dowodzi siłą najemników, w tym **zbirów** (2 sp za dzień) i **weteranów** (2 gp za dzień). [[Ziraj the Hunter\|Ziraj the Hunter]] świadczy elitarne usługi skrytobójcze w zamian za przysługę do odebrania w przyszłości.
+- **Militarne:** [[Tashlyn Yafeera\|Tashlyn Yafeera]] dowodzi siłą najemników, w tym **zbirów** (2 sp za dzień) i **weteranów** (2 gp za dzień). [[Characters/Ziraj the Hunter\|Ziraj the Hunter]] świadczy elitarne usługi skrytobójcze w zamian za przysługę do odebrania w przyszłości.
 - **Ekonomiczne:** [[Istrid Horn\|Istrid Horn]] prowadzi nielegalną, ale dochodową działalność pożyczkową, oferując pożyczki do 2500 gp z 10% odsetek na dekadzień.
 - **Polityczne:** [[Characters/Davil Starsong\|Davil Starsong]] pielęgnuje kontakty z wpływowymi szlachcicami i członkami gildii, organizując spotkania i pośrednicząc w umowach.
 - **Magiczne:** [[Skeemo Weirdbottle\|Skeemo Weirdbottle]] prowadzi sklep z miksturami i truciznami, „Eliksiry Dziwobutelki” (Weirdbottle's Concoctions), w Dzielnicy Kupieckiej.
@@ -124,5 +124,5 @@ Publicznie Zhentarimowie są znani jako tajemnicza siatka najemników i skrytob�
 - **[[Istrid Horn\|Istrid Horn]]:** Twarda, konkretna krasnoludka tarczowa, która prowadzi działalność pożyczkową frakcji. Czci krasnoludzkiego boga bogactwa i lubi, gdy inni są jej dłużni.
 - **[[Tashlyn Yafeera\|Tashlyn Yafeera]]:** Dumna i porywcza kalishytka, kapitan w Straży Miejskiej. Jest Mistrzynią Broni i Najemników i szanuje każdego, kto jest w stanie pokonać ją w walce.
 - **[[Skeemo Weirdbottle\|Skeemo Weirdbottle]]:** Skalny gnom alchemik, który wydaje się przyjazny, ale potajemnie jest zdrajcą, sprzedającym Łupieżców Zagłady [[Characters/Manshoon\|Manshoonowi]].
-- **[[Ziraj the Hunter\|Ziraj the Hunter]]:** Cichy, ponury półork skrytobójca. Typ silnego milczka, który jest śmiertelnie skuteczny ze swoim ponadwymiarowym łukiem. Jest niezwykle lojalny wobec swoich przyjaciół z Łupieżców Zagłady.
+- **[[Characters/Ziraj the Hunter\|Ziraj the Hunter]]:** Cichy, ponury półork skrytobójca. Typ silnego milczka, który jest śmiertelnie skuteczny ze swoim ponadwymiarowym łukiem. Jest niezwykle lojalny wobec swoich przyjaciół z Łupieżców Zagłady.
 - **[[Characters/Yagra Stonefist\|Yagra Stonefist]]:** Twarda półorczyca zbir, która pracuje jako ochroniarz, często dla Davila. Została uratowana z rąk handlarzy niewolników przez Łupieżców Zagłady i jest im bezgranicznie lojalna.

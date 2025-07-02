@@ -12,7 +12,7 @@
 *   **Rasa/Gatunek:** Człowiek (Chondathanin)
 *   **Klasa/Rola:** Wojownik / Tajny agent
 *   **Charakter:** Praworządny Dobry
-*   **Przynależność:** [[Sojusz Lordów\|Sojusz Lordów]], [[Straż Miejska\|Straż Miejska]]
+*   **Przynależność:** [[Organisations/Sojusz Lordów\|Sojusz Lordów]], [[Straż Miejska\|Straż Miejska]]
 *   **Typowa lokalizacja:** [[Pod Ziewającym Portalem\|Pod Ziewającym Portalem]], [[Dzielnica Zamkowa\|Dzielnica Zamkowa]]
 *   **Status:** Żywy
 

@@ -111,6 +111,6 @@ Gdy postacie wchodzą do środka, szybko wyczuwają dziwność tego miejsca:
 >>Gnom opuszcza fajkę i wydycha chmurę lawendowego dymu, po czym unosi rękę. "Witajcie i bądźcie pozdrowieni! Przyjdźcie przejrzeć półki najciekawszego sklepu z ciekawostkami na świecie!"
 
 
-Sklep nosi nazwę od wypchanego obserwatora w oknie – elementu, który w rzeczywistości jest magicznym czujnikiem, przez który [[Xanathar\|Xanathar]] może spoglądać, kiedy tylko zechce.
+Sklep nosi nazwę od wypchanego obserwatora w oknie – elementu, który w rzeczywistości jest magicznym czujnikiem, przez który [[Characters/Xanathar\|Xanathar]] może spoglądać, kiedy tylko zechce.
 
 Sklepikarzem jest pomarszczony **głębinowy gnom**, który szpieguje dla [[Organisations/Gildia Xanathara\|Gildii Xanathara]]. Kilka lat temu przeżył detonację zarodnika gazowego (gas spore) w Podmroku i odziedziczył kilka przypadkowych wspomnień obserwatora. Kierowany przymusem wyrzeźbienia własnej domeny, gnom osiadł w Waterdeep, kupił [[Places/Stary Sklep Xobloba\|Stary Sklep Xobloba]] od poprzedniego właściciela i próbował zmienić jego nazwę na własną, ale wszyscy nadal nazywali go Starym Sklepem Xobloba. Dlatego przywrócił starą nazwę i zmienił swoje imię na [[Characters/Xoblob\|Xoblob]]. "Żadnego pokrewieństwa z tyranem oka wiszącym w oknie!" mówi.

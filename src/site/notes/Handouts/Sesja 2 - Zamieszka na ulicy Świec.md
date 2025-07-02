@@ -41,7 +41,7 @@ Jeśli kenku nie są ukryte, dodaj:
 
 >>Cztery niskie, ptasie stworzenia z długimi dziobami i czarnymi piórami spoglądają ze zdziwieniem z miejsca, w którym stoją na środku magazynu. Każde nosi płaszcz z kapturem i dzierży krótki miecz.
 
-Ciała należą do pięciu ludzkich najemników [[Organisations/Zhentarimowie\|Zhentarimów]] (tych samych, którzy porwali [[Characters/Floon Blagmaar\|Floona]] i [[Characters/Renaer Neverember\|Renaera]]) i siedmiu ludzkich zbirów [[Organisations/Gildia Xanathara\|Gildii Xanathara]], wszyscy ubrani w skórzane zbroje. Każdy [[Organisations/Zhentarimowie\|Zhent]] ma czarny tatuaż skrzydlatego węża na szyi lub przedramieniu, a jeden z członków [[Organisations/Gildia Xanathara\|Gildii Xanathara]] ma czarny tatuaż na dłoni prawej ręki, który wygląda jak okrąg z dziesięcioma szprychami promieniującymi z jego obwodu (symbol [[Xanathar\|Xanathara]]).
+Ciała należą do pięciu ludzkich najemników [[Organisations/Zhentarimowie\|Zhentarimów]] (tych samych, którzy porwali [[Characters/Floon Blagmaar\|Floona]] i [[Characters/Renaer Neverember\|Renaera]]) i siedmiu ludzkich zbirów [[Organisations/Gildia Xanathara\|Gildii Xanathara]], wszyscy ubrani w skórzane zbroje. Każdy [[Organisations/Zhentarimowie\|Zhent]] ma czarny tatuaż skrzydlatego węża na szyi lub przedramieniu, a jeden z członków [[Organisations/Gildia Xanathara\|Gildii Xanathara]] ma czarny tatuaż na dłoni prawej ręki, który wygląda jak okrąg z dziesięcioma szprychami promieniującymi z jego obwodu (symbol [[Characters/Xanathar\|Xanathara]]).
 
 Kenku walczą, dopóki dwóch z nich nie zostanie obezwładnionych lub zabitych, po czym ocaleni próbują uciec. Udany test Charyzmy (Zastraszanie) o ST 10 zmusi schwytane kenku do wyjawienia tego, co wiedzą.
 
@@ -49,7 +49,7 @@ Kenku walczą, dopóki dwóch z nich nie zostanie obezwładnionych lub zabitych,
 
 Kiedy kenku mówią, naśladują dźwięki i głosy, które słyszały wcześniej. Podczas przesłuchania powtarzają następujące frazy:
 
-- Głębokim głosem z orkowym akcentem: "[[Xanathar\|Xanathar]] przesyła pozdrowienia."
+- Głębokim głosem z orkowym akcentem: "[[Characters/Xanathar\|Xanathar]] przesyła pozdrowienia."
 - Cienkim, nosowym głosem: "Zwiążcie tego ślicznego chłopca w tylnym pokoju!" i "Podążajcie za żółtymi znakami w kanałach." (Ta uwaga odnosi się do tuneli w kanałach, które są oznaczone symbolem **Xanathara** tam, gdzie prowadzą do kryjówki [[Organisations/Gildia Xanathara\|Gildii Xanathar]].)
 - Chrapliwym głosem: "Nie ma czasu na grabież. Po prostu dostarczcie go szefowi."
 
@@ -125,7 +125,7 @@ W kanałach nie ma naturalnego światła. Postacie bez widzenia w ciemności pot
 
 >>Cuchnący strumień płynie wzdłuż tego tunelu kanałowego, który prowadzi w dwóch kierunkach. W jednym kierunku widzicie mały symbol narysowany na ścianie żółtą kredą: okrąg wielkości dłoni z dziesięcioma równo oddalonymi szprychami promieniującymi z jego obwodu.
 
-Kryjówka agentów [[Organisations/Gildia Xanathara\|Gildii Xanathara]], którzy porwali [[Characters/Floon Blagmaar\|Floona]], znajduje się głęboko w labiryntowych kanałach miasta. W każdym miejscu, w którym postacie muszą podjąć decyzję, w którą stronę iść, symbol narysowany żółtą kredą – stylizowane przedstawienie [[Xanathar\|Xanathara]] – jest oznaczony obok tunelu prowadzącego we właściwym kierunku. Symbole są usuwane przez członków [[Organisations/Gildia Xanathara\|Gildii Xanathara]] lub Gildii Zmiataczy Gnoju (Dungsweepers' Guild) co kilka dni, ale te oznaczenia nie zostały jeszcze usunięte.
+Kryjówka agentów [[Organisations/Gildia Xanathara\|Gildii Xanathara]], którzy porwali [[Characters/Floon Blagmaar\|Floona]], znajduje się głęboko w labiryntowych kanałach miasta. W każdym miejscu, w którym postacie muszą podjąć decyzję, w którą stronę iść, symbol narysowany żółtą kredą – stylizowane przedstawienie [[Characters/Xanathar\|Xanathara]] – jest oznaczony obok tunelu prowadzącego we właściwym kierunku. Symbole są usuwane przez członków [[Organisations/Gildia Xanathara\|Gildii Xanathara]] lub Gildii Zmiataczy Gnoju (Dungsweepers' Guild) co kilka dni, ale te oznaczenia nie zostały jeszcze usunięte.
 
 #### Strażnik Gazer
 

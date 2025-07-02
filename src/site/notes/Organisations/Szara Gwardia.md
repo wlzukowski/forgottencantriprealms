@@ -69,7 +69,7 @@ Szara Gwardia działa jako zespół uderzeniowy do działań bezpośrednich. Mis
 ---
 
 ## Relacje
-- **Sojusznicy:** [[Sojusz Lordów\|Sojusz Lordów]], [[Organisations/Harfiarze\|Harfiarze]]. Szara Gwardia często współpracuje z innymi frakcjami o "dobrym" charakterze, które podzielają cel ochrony miasta.
+- **Sojusznicy:** [[Organisations/Sojusz Lordów\|Sojusz Lordów]], [[Organisations/Harfiarze\|Harfiarze]]. Szara Gwardia często współpracuje z innymi frakcjami o "dobrym" charakterze, które podzielają cel ochrony miasta.
 - **Rywale:** Brak. Szara Gwardia działa na poziomie wykraczającym poza większość sporów między frakcjami.
 - **Wrogowie:** [[Organisations/Gildia Xanathara\|Gildia Xanathara]], [[Organisations/Zhentarimowie\|Zhentarimowie]], [[Organisations/Ród Cassalanterów\|Kult Asmodeusza (Cassalanterowie)]]. Każda organizacja, która zagraża stabilności i bezpieczeństwu Waterdeep, jest uważana za wroga.
 - **Patroni/Klienci:** Rząd Waterdeep, reprezentowany przez Jawnego Lorda i Czarny Kostur.

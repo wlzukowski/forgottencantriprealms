@@ -31,7 +31,7 @@
 
 *   **Cechy osobowości:** Wrogi, uparty, paranoiczny, ponuro zdeterminowany.
 *   **Ideał:** **Władza.** [[Organisations/Gildia Xanathara\|Gildia Xanathara]] jest największą siłą w podbrzuszu miasta, a służba jej to jedyna droga do przetrwania i zdobycia wpływów.
-*   **Więź:** Lojalny wobec swojego bezpośredniego przełożonego, **[[Characters/Grum'shar\|Grum'shar]]a**, i ostatecznie wobec **[[Xanathar\|Xanathar]]a**, którego panicznie się boi.
+*   **Więź:** Lojalny wobec swojego bezpośredniego przełożonego, **[[Characters/Grum'shar\|Grum'shar]]a**, i ostatecznie wobec **[[Characters/Xanathar\|Xanathar]]a**, którego panicznie się boi.
 *   **Wada:** Zbyt pewny siebie w bezpośredniej walce, całkowicie nieelastyczny i absolutnie bezlitosny. Będzie walczył na śmierć i życie, zamiast się poddać.
 *   **Sposób bycia/Głos:** Mówi niskim, chrapliwym, monotonnym głosem. Rzadko się odzywa, chyba że rzuca groźbę lub wyzwanie.
 *   **Motywacje/Cele:** Ochrona kryjówki Gildii Xanathara przed intruzami i udowodnienie swojej wartości przełożonym.
@@ -44,7 +44,7 @@
 *   **Sojusznicy:**
     *   **[[Characters/Grum'shar\|Grum'shar]]** (Szef)
     *   **[[Krentz\|Krentz]]** (Tymczasowy współpracownik, jeśli Krentz przeżył bójkę w Ziewającym Portalu)
-    *   **[[Xanathar\|Xanathar]]** (Mistrz Gildii)
+    *   **[[Characters/Xanathar\|Xanathar]]** (Mistrz Gildii)
 *   **Wrogowie:**
     *   [[Organisations/Zhentarimowie\|Zhentarimowie]]
     *   [[Straż Miejska\|Straż Miejska]]

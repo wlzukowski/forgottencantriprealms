@@ -42,7 +42,7 @@
 ## Relacje
 
 *   **Sojusznicy:**
-    *   **[[Xanathar\|Xanathar]]:** Pan/Kolega. Nihiloor dostarcza Xanatharowi bezcennych informacji wywiadowczych, ale ich relacja opiera się na wygodzie, a nie na prawdziwej lojalności.
+    *   **[[Characters/Xanathar\|Xanathar]]:** Pan/Kolega. Nihiloor dostarcza Xanatharowi bezcennych informacji wywiadowczych, ale ich relacja opiera się na wygodzie, a nie na prawdziwej lojalności.
     *   **Kuo-toa:** Niewolnicy służący jako strażnicy w jego części kryjówki.
     *   **Intelektożercy:** Jego stworzenia i pupile, którymi kieruje jako szpiegami i agentami.
 *   **Wrogowie:**

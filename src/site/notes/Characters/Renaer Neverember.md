@@ -12,7 +12,7 @@
 *   **Rasa/Gatunek:** Człowiek (Illuskańczyk)
 *   **Klasa/Rola:** Zawadiaka, Szlachcic, Harper
 *   **Charakter:** Chaotyczny Dobry
-*   **Przynależność(i):** [[Organisations/Harfiarze\|Harfiarze]], [[Sojusz Lordów\|Sojusz Lordów]] (przez powiązania), Czarne Łzy (Remiks Aleksandryjski)
+*   **Przynależność(i):** [[Organisations/Harfiarze\|Harfiarze]], [[Organisations/Sojusz Lordów\|Sojusz Lordów]] (przez powiązania), Czarne Łzy (Remiks Aleksandryjski)
 *   **Typowa lokalizacja:** Gospoda [[Pod Ziewającym Portalem\|Pod Ziewającym Portalem]], różne tawerny i sale biesiadne. Jest właścicielem [[Brandarthall\|Brandarthall]] (dawniej Posiadłość Neveremberów) w Dzielnicy Morskiej, ale rzadko tam przebywa.
 *   **Status:** Żywy
 

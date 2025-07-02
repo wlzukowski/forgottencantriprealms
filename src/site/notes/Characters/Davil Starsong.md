@@ -48,7 +48,7 @@
     *   [[Characters/Yagra Stonefist\|Yagra Stonefist]](Ochroniarka)
 *   **Wrogowie:**
     *   [[Characters/Manshoon\|Manshoon]] (Rywalizujący przywódca Zhentarimów)
-    *   [[Xanathar\|Xanathar]] (Wróg frakcji)
+    *   [[Characters/Xanathar\|Xanathar]] (Wróg frakcji)
     *   [[Organisations/Harfiarze\|Harfiarze]] (Harpers) (którzy aktywnie go szpiegują)
     *   [[Straż Miejska\|Straż Miejska]] (która w końcu go aresztuje)
 *   **Inne powiązania:**

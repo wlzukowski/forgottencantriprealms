@@ -13,7 +13,7 @@
 *   **Rasa:** Człowiek
 *   **Klasa/Rola:** Otwarty Lord Waterdeep, Arcymag
 *   **Charakter:** Chaotyczny Dobry
-*   **Przynależność:** [[Sojusz Lordów\|Sojusz Lordów]], [[Organisations/Harfiarze\|Harfiarze]])
+*   **Przynależność:** [[Organisations/Sojusz Lordów\|Sojusz Lordów]], [[Organisations/Harfiarze\|Harfiarze]])
 *   **Typowa lokalizacja:** Pałac Waterdeep (Dzielnica Zamkowa)
 *   **Status:** Żyje
 
@@ -33,7 +33,7 @@
 *   **Ideały:** Stanie na straży prawa oraz ochrona interesów i mieszkańców Waterdeep.
 *   **Więzi:** Obowiązki jako Otwarty Lord Waterdeep. Pamięć o zmarłym mężu, Khelbenie Arunsunie, którego dusza jest związana z *Czarnokosturem* (*Blackstaff*). Przyjaźń z Elminsterem.
 *   **Wady:** Pożąda *Czarnokostura* ze względu na jego związek z jej mężem, co tworzy napiętą relację z obecną posiadaczką tego artefaktu, [[Characters/Vajra Safahr\|Vajra Safahr]].
-*   **Motywacje/Cele:** Sprawiedliwe rządzenie Waterdeep, odzyskanie pół miliona smoków (złotych monet) zdefraudowanych przez jej poprzednika oraz obrona miasta przed zagrożeniami takimi jak [[Characters/Manshoon\|Manshoon]] i [[Xanathar\|Xanathar]].
+*   **Motywacje/Cele:** Sprawiedliwe rządzenie Waterdeep, odzyskanie pół miliona smoków (złotych monet) zdefraudowanych przez jej poprzednika oraz obrona miasta przed zagrożeniami takimi jak [[Characters/Manshoon\|Manshoon]] i [[Characters/Xanathar\|Xanathar]].
 *   **Sekrety:** Jej magiczna moc osłabła od czasu Plagi Czarów i Rozdarcia, co ukrywa przed wszystkimi z wyjątkiem swojego najbardziej zaufanego doradcy, Elminstera.
 
 ---
@@ -49,8 +49,8 @@
 *   **Wrogowie:**
     *   [[Characters/Manshoon\|Manshoon]] (Chce ją obalić i zająć jej miejsce jako Otwarty Lord)
     *   Cassalanterowie (Dążą do podważenia stabilności miasta dla własnych korzyści)
-    *   [[Xanathar\|Xanathar]] (Poważne zagrożenie przestępcze dla miasta)
-    *   [[Jarlaxle Baenre\|Jarlaxle Baenre]] (Rywal polityczny, którego darzy głęboką podejrzliwością)
+    *   [[Characters/Xanathar\|Xanathar]] (Poważne zagrożenie przestępcze dla miasta)
+    *   [[Characters/Jarlaxle Baenre\|Jarlaxle Baenre]] (Rywal polityczny, którego darzy głęboką podejrzliwością)
     *   [[Dagult Neverember\|Dagult Neverember]] (Jej poprzednik, którego obaliła i którego zdefraudowane złoto próbuje odzyskać)
 *   **Rodzina:**
     *   Mystra (Matka)

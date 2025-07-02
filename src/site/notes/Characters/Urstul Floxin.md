@@ -48,7 +48,7 @@
     *   **[[Orond Gralhund\|Orond Gralhund]]** (Sojusznik z wyrachowania)
     *   **[[Kaevja Cynavern\|Kaevja Cynavern]]**, **Vevette Blackwater**, **Agorn Fuoco** (Pozostali porucznicy)
 *   **Wrogowie:**
-    *   **[[Xanathar\|Xanathar]]** i Gildia Xanathara
+    *   **[[Characters/Xanathar\|Xanathar]]** i Gildia Xanathara
     *   [[Organisations/Doom Raiders\|Doom Raiders]] (rywalizująca frakcja Zhentarimów)
     *   Postacie graczy
 

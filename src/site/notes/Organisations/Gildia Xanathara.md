@@ -8,7 +8,7 @@
 | **Typ**           | Syndykat przestępczy                                                         |
 | **Charakter**     | Chaotyczny zły                                                               |
 | **Zasięg/Wpływy** | Lokalny (Waterdeep i Czaszkoport)                                            |
-| **Przywódca/y**   | [[Xanathar\|Xanathar]]                                                                 |
+| **Przywódca/y**   | [[Characters/Xanathar\|Xanathar]]                                                                 |
 | **Siedziba**      | [[Kryjówka Xanathara\|Kryjówka Xanathara]]                                                       |
 | **Symbol**        | Okrąg z dziesięcioma równo oddalonymi szprychami wychodzącymi z jego obwodu. |
 
@@ -86,7 +86,7 @@ Gildia Xanathara definiowana jest przez swoją brutalność i paranoję. Jej met
 ## Relacje
 - **Sojusznicy:** [[Grinda Garloth\|Grinda Garloth]] (zbrojmistrzyni z czarnego rynku), niepewny sojusz z gangiem szczurołaków Wyrzutków Odłamka.
 - **Rywale:** [[Organisations/Ród Cassalanterów\|Ród Cassalanterów]], [[Bregan D'aerthe\|Bregan D'aerthe]]
-- **Wrogowie:** [[Organisations/Zhentarimowie\|Zhentarimowie]] (obecnie w stanie otwartej wojny), [[Straż Miejska\|Straż Miejska]], [[Sojusz Lordów\|Sojusz Lordów]], [[Organisations/Harfiarze\|Harfiarze]].
+- **Wrogowie:** [[Organisations/Zhentarimowie\|Zhentarimowie]] (obecnie w stanie otwartej wojny), [[Straż Miejska\|Straż Miejska]], [[Organisations/Sojusz Lordów\|Sojusz Lordów]], [[Organisations/Harfiarze\|Harfiarze]].
 - **Patroni/Klienci:** Gildia nie ma patronów; służy tylko sobie. Ma wielu „klientów”, którzy płacą za ochronę.
 
 ---
@@ -127,7 +127,7 @@ Gildia Xanathara jest powszechnie znana i budzi strach jako brutalna organizacja
 4.  **Atak na placówkę:** Sojusznicza frakcja (jak [[Organisations/Harfiarze\|Harfiarze]] lub [[Organisations/Zhentarimowie\|Zhentarimowie]] z frakcji Łupieżców Zagłady) dowiaduje się o lokalizacji placówki Gildii Xanathara i wynajmuje BN-ów do jej najścia.
 
 ### Ważni BN-i
-- **[[Xanathar\|Xanathar]]:** Paranoiczny, megalomański i skłonny do napadów szału. Postrzega wszystkich jako potencjalnych spiskowców, ale ma słabość do swojej rybki, [[Sylgara\|Sylgara]].
+- **[[Characters/Xanathar\|Xanathar]]:** Paranoiczny, megalomański i skłonny do napadów szału. Postrzega wszystkich jako potencjalnych spiskowców, ale ma słabość do swojej rybki, [[Sylgara\|Sylgara]].
 - **[[Ahmaergo\|Ahmaergo]]:** Przebiegły i okrutny tarczowy krasnolud, który służy jako majordomus Xanathara. Jest niezachwianie lojalny, ale ma dziwaczną fascynację minotaurami.
 - **[[Characters/Nihiloor\|Nihiloor]]:** Zimny, obcy łowca umysłów, który tworzy pożeraczy intelektu. Uważa się za równego Xanatharowi i cierpliwie realizuje swoje własne, niezbadane plany.
 - **[[Nar'l Xibrindas\|Nar'l Xibrindas]]:** Spiskujący drowi mag, potajemnie pracujący dla [[Jarlaxle'a Baenre\|Jarlaxle'a Baenre]]. Fachowo gra na paranoi Xanathara, aby manipulować gildią i przekazywać informacje swojemu prawdziwemu panu.

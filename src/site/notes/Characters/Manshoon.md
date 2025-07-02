@@ -53,7 +53,7 @@
     *   **[[Kaevja Cynavern\|Kaevja Cynavern]]** (Mag, Porucznik)
     *   **[[Havia Quickknife\|Havia Quickknife]]** i **[[Mookie Plush\|Mookie Plush]]** (Adepci Sztuk Walki, Porucznicy)
 *   **Wrogowie:**
-    *   **[[Xanathar\|Xanathar]]:** Arcyrywal w Wielkiej Grze.
+    *   **[[Characters/Xanathar\|Xanathar]]:** Arcyrywal w Wielkiej Grze.
     *   **[[Characters/Laeral Silverhand\|Laeral Silverhand]]:** Obecna Otwarta Lord, którą zamierza zdetronizować.
     *   **[[Characters/Vajra Safahr\|Vajra Safahr]]:** Czarna Laska Waterdeep.
     *   **Najeźdźcy Zagłady (The [[Organisations/Doom Raiders\|Doom Raiders]]):** Rywalizująca frakcja Zhentarimów, którą dąży do zniszczenia lub przejęcia.

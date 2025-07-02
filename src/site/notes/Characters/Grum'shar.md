@@ -37,7 +37,7 @@
 ## Relacje
 
 *   **Sojusznicy:**
-    *   **[[Xanathar\|Xanathar]]** (Pan)
+    *   **[[Characters/Xanathar\|Xanathar]]** (Pan)
     *   **[[Characters/Nihiloor\|Nihiloor]]** (Bezpośredni przełożony)
     *   [[Characters/Zemk\|Zemk]] (Podwładny duergar w kryjówce)
     *   Różne gobliny i kenku z Gildii Xanathara (Podwładni)

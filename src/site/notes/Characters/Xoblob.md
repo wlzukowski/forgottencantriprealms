@@ -44,7 +44,7 @@
 ## Relacje
 
 *   **Sojusznicy:**
-    *   **[[Xanathar\|Xanathar]]** (Pan)
+    *   **[[Characters/Xanathar\|Xanathar]]** (Pan)
 *   **Wrogowie:**
     *   **[[Organisations/Zhentarimowie\|Zhentarimowie]]** (z racji przynależności)
     *   Każdy, kto zagraża jego sklepowi lub jego panu.
@@ -72,7 +72,7 @@ Kilka lat temu ten svirfneblin przetrwał eksplozję zarodnika gazowego w Podgó
 ## Zaczepki fabularne / Udział w zadaniach
 
 *   **Odnalezienie Floona (Alexandrian Remix Część 5B):** Podczas początkowego śledztwa Xoblob jest kluczowym świadkiem. Widział, jak [[Characters/Floon Blagmaar\|Floon Blagmaar]] i [[Characters/Renaer Neverember\|Renaer Neverember]] wpadli w zasadzkę przed jego sklepem. Jeśli zostanie przekonany, opisze napastników (Zhentarimów z tatuażami skrzydlatych węży) oraz ofiary, dostarczając kluczowego tropu.
-*   **Czujnik wróżbiarski:** Wypchany beholder na wystawie jest bezpośrednim czujnikiem wróżbiarskim dla [[Xanathar\|Xanathar]]. BG omawiający w sklepie poufne informacje mogą nieświadomie donosić beholderowi. Sprytni BG, którzy to odkryją, mogą wykorzystać ten fakt do podsuwania Xanatharowi fałszywych informacji.
+*   **Czujnik wróżbiarski:** Wypchany beholder na wystawie jest bezpośrednim czujnikiem wróżbiarskim dla [[Characters/Xanathar\|Xanathar]]. BG omawiający w sklepie poufne informacje mogą nieświadomie donosić beholderowi. Sprytni BG, którzy to odkryją, mogą wykorzystać ten fakt do podsuwania Xanatharowi fałszywych informacji.
 *   **Oko beholdera:** Jeśli klucze do Skarbca Smoków wymagają oka beholdera, wypchany beholder na wystawie sklepu jest jednym z najłatwiej dostępnych źródeł w Waterdeep. Jego zdobycie prawdopodobnie będzie wymagało konfrontacji z Xoblobem.
 *   **Kontakt z Gildią Xanathara:** Stary Sklep Xobloba służy jako niskopoziomowa przykrywka dla Gildii Xanathara. BG szukający kontaktu z gildią mogą zostać tu skierowani, chociaż Xoblob będzie niezwykle ostrożny.
 

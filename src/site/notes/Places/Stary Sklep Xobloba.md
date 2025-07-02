@@ -46,7 +46,7 @@ Poprzedni właściciel sklepu jest nieznany. Kilka lat temu głębinowy gnom (sv
 
 ## Miejsca (Podlokacje i punkty orientacyjne)
 
-*   **Wypchany Beholder:** Najbardziej charakterystycznym elementem sklepu jest wypchany beholder wiszący w oknie, od którego sklep wziął swoją nazwę. Jest to magiczny czujnik, przez który [[Xanathar\|Xanathar]] może spoglądać w dowolnym momencie.
+*   **Wypchany Beholder:** Najbardziej charakterystycznym elementem sklepu jest wypchany beholder wiszący w oknie, od którego sklep wziął swoją nazwę. Jest to magiczny czujnik, przez który [[Characters/Xanathar\|Xanathar]] może spoglądać w dowolnym momencie.
 
 ## Kultura i społeczeństwo
 

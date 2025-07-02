@@ -13,7 +13,7 @@
 *   **Rasa/Gatunek:** Człowiek (Tethyrianka)
 *   **Klasa/Rola:** Arcymag, Wysoka Czarodziejka Waterdeep
 *   **Charakter:** Praworządny Neutralny
-*   **Przynależność:** [[Organisations/Szara Gwardia\|Szara Gwardia]] (Przywódczyni), [[Sojusz Lordów\|Sojusz Lordów]]
+*   **Przynależność:** [[Organisations/Szara Gwardia\|Szara Gwardia]] (Przywódczyni), [[Organisations/Sojusz Lordów\|Sojusz Lordów]]
 *   **Typowa lokalizacja:** Wieża Czarnego Kostura ([[Dzielnica Zamkowa\|Dzielnica Zamkowa]])
 *   **Status:** Żyje
 
@@ -48,7 +48,7 @@
 *   **Wrogowie:**
     *   **[[Characters/Manshoon\|Manshoon]]:** Poważne zagrożenie dla Waterdeep, które postara się wyeliminować, jeśli otrzyma dowód jego lokalizacji.
     *   **[[Cassalanterowie\|Cassalanterowie]]:** Diaboliczni kultyści, których spisek zagraża duszy miasta.
-    *   **[[Xanathar\|Xanathar]]:** Beholder i władca przestępczego podziemia, którego działalność destabilizuje miasto.
+    *   **[[Characters/Xanathar\|Xanathar]]:** Beholder i władca przestępczego podziemia, którego działalność destabilizuje miasto.
 *   **Inne powiązania:**
     *   **[[Characters/Laeral Silverhand\|Laeral Silverhand]]:** Jawna Pani Waterdeep. Ich relacja jest profesjonalna, ale napięta z powodu wspólnej historii i związku z *Czarną Laską*.
     *   **[[Characters/Mirt\|Mirt]]:** Harfiarz i Zamaskowany Lord. Vajra wie, że został skompromitowany przez agentów Manshoona i podjęła kroki, aby mu pomóc.

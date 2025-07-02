@@ -77,7 +77,7 @@ Kult Cassalanterów jest monolityczną organizacją, spajaną absolutną władz�
 
 ## Relacje
 - **Sojusznicy:** Oni sami. W Alexandrian Remix zwracają się do postaci graczy, aby działali jako ich agenci w Wielkiej Grze, obiecując udział w złocie w zamian za pomoc.
-- **Rywale:** [[Xanathar\|Xanathar]], [[Characters/Manshoon\|Manshoon]] i [[Jarlaxle Baenre\|Jarlaxle Baenre]], którzy również rywalizują o odnalezienie Skarbca Smoków.
+- **Rywale:** [[Characters/Xanathar\|Xanathar]], [[Characters/Manshoon\|Manshoon]] i [[Characters/Jarlaxle Baenre\|Jarlaxle Baenre]], którzy również rywalizują o odnalezienie Skarbca Smoków.
 - **Wrogowie:** Asmodeusz, który trzyma dusze ich dzieci jako zakładników. Harpersi, którzy są świadomi ich działalności związanej z kultem diabłów. Każdy, kto próbuje powstrzymać ich przed ocaleniem dzieci.
 
 ---

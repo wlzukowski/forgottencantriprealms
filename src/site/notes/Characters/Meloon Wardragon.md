@@ -48,7 +48,7 @@
     *   [[Organisations/Zhentarimowie\|Zhentarimowie]] (Aktywnie na nich poluje dla Xanathara)
     *   Jego właśni przyjaciele (Nieświadomie)
 *   **Przełożeni:**
-    *   [[Xanathar\|Xanathar]] (Tajny Pan)
+    *   [[Characters/Xanathar\|Xanathar]] (Tajny Pan)
     *   [[Characters/Nihiloor\|Nihiloor]] (Stwórca pożeracza intelektu, który go kontroluje)
 
 ---
