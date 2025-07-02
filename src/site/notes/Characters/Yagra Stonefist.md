@@ -13,8 +13,8 @@
 *   **Rasa/Gatunek:** Półork
 *   **Klasa/Rola:** Zbir do wynajęcia, najemniczka Zhentarimów
 *   **Charakter:** Neutralny (N)
-*   **Przynależność:** Zhentarimowie ([[Doom Raiders\|Doom Raiders]])
-*   **Typowa lokalizacja:** Karczma [[Pod Ziewającym Portalem\|Pod Ziewającym Portalem]], [[Wieże Kolat\|Wieże Kolat]] (po tym, jak przejmą je [[Doom Raiders\|Doom Raiders]])
+*   **Przynależność:** Zhentarimowie ([[Organisations/Doom Raiders\|Doom Raiders]])
+*   **Typowa lokalizacja:** Karczma [[Pod Ziewającym Portalem\|Pod Ziewającym Portalem]], [[Wieże Kolat\|Wieże Kolat]] (po tym, jak przejmą je [[Organisations/Doom Raiders\|Doom Raiders]])
 *   **Status:** Żyje
 
 ---
@@ -43,9 +43,9 @@
 
 *   **Sojusznicy:**
     *   [[Characters/Davil Starsong\|Davil Starsong]] (Szef/Kolega)
-    *   The [[Doom Raiders\|Doom Raiders]] (Istrid Horn, Skeemo Weirdbottle, Tashlyn Yafeera)
+    *   The [[Organisations/Doom Raiders\|Doom Raiders]] (Istrid Horn, Skeemo Weirdbottle, Tashlyn Yafeera)
 *   **Wrogowie:**
-    *   [[Gildia Xanathara\|Gildia Xanathara]]
+    *   [[Organisations/Gildia Xanathara\|Gildia Xanathara]]
     *   Handlarze niewolników
 *   **Inne powiązania:**
     *   [[Ziraj\|Ziraj]] Łowca (były chłopak, członek Doom Raiders)
@@ -74,7 +74,7 @@ Yagra została uratowana z rąk handlarzy niewolników przez Doom Raiders. Nast�
 *   **Bójka w karczmie:** BG (Bohaterowie Graczy) po raz pierwszy spotykają Yagrę w Ziewającym Portalu, gdzie wdaje się w bójkę z członkami Gildii Xanathara. Daje to wczesny wgląd w wojnę gangów w mieście i szansę dla BG na zdobycie sojuszniczki.
 *   **Rekrutacja do Zhentarimów:** Jeśli BG okażą wrogość wobec Gildii Xanathara, Yagra może namówić ich do rozmowy z Davilem Starsongiem na temat połączenia sił z jej frakcją Zhentarimów.
 *   **Tylne wejście:** Yagra zna tajne wejście do [[Legowisko Xanathara\|Legowiska Xanathara]] i może przekazać tę informację zaufanym sojusznikom.
-*   **Mięśnie do wynajęcia:** Jako członkini [[Doom Raiders\|Doom Raiders]], Yagra może zostać wezwana do zapewnienia ochrony lub wsparcia dla BG, zwłaszcza jeśli są sprzymierzeni z jej frakcją. W remiksie aleksandryjskim, ona i inni Zhentarimowie są wynajmowani do ochrony Posiadłości Trollskull.
+*   **Mięśnie do wynajęcia:** Jako członkini [[Organisations/Doom Raiders\|Doom Raiders]], Yagra może zostać wezwana do zapewnienia ochrony lub wsparcia dla BG, zwłaszcza jeśli są sprzymierzeni z jej frakcją. W remiksie aleksandryjskim, ona i inni Zhentarimowie są wynajmowani do ochrony Posiadłości Trollskull.
 
 ---
 
@@ -82,4 +82,4 @@ Yagra została uratowana z rąk handlarzy niewolników przez Doom Raiders. Nast�
 
 *   Yagra jest członkinią frakcji Doom Raiders w Zhentarimie, która sprzeciwia się frakcji Manshoona. Jest to kluczowe rozróżnienie w remiksie aleksandryjskim.
 *   Może być cennym, przyjaznym kontaktem dla BG, zwłaszcza jeśli staną po stronie przeciwnej Xanatharowi.
-*   Jej przeszłość jako uratowanej niewolnicy daje jej silną motywację do pogardzania handlarzami niewolników i organizacjami takimi jak [[Gildia Xanathara\|Gildia Xanathara]]. Podkreślenie tego może uczynić z niej bardziej interesującą postać.
+*   Jej przeszłość jako uratowanej niewolnicy daje jej silną motywację do pogardzania handlarzami niewolników i organizacjami takimi jak [[Organisations/Gildia Xanathara\|Gildia Xanathara]]. Podkreślenie tego może uczynić z niej bardziej interesującą postać.

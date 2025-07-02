@@ -12,7 +12,7 @@
 *   **Rasa/Gatunek:** Człowiek (Illuskanin)
 *   **Klasa/Rola:** Gawędziarz, Kronikarz, Czarodziej, Celebryta, Zleceniodawca zadań
 *   **Charakter:** Chaotyczny dobry
-*   **Przynależność:** Brak (chociaż przyjaźni się z [[Harfiarze\|Harfiarze]], takimi jak [[Characters/Renaer Neverember\|Renaer Neverember]])
+*   **Przynależność:** Brak (chociaż przyjaźni się z [[Organisations/Harfiarze\|Harfiarze]], takimi jak [[Characters/Renaer Neverember\|Renaer Neverember]])
 *   **Typowa lokalizacja:** Gospoda [[pod Ziewającym Portalem\|pod Ziewającym Portalem]] ([[Dzielnica Zamkowa\|Dzielnica Zamkowa]])
 *   **Status:** Żywy
 

@@ -45,7 +45,7 @@
     *   **Jej Gang** (Czworo innych sobowtórów, którzy widzą w niej przywódczynię i protektorkę).
 *   **Wrogowie:**
     *   **[[Szmaragdowa Enklawa\|Szmaragdowa Enklawa]]** (Uważa sobowtóry za nienaturalne zagrożenia, które należy usunąć z miasta).
-    *   **[[Harfiarze\|Harfiarze]]** (Generalnie podejrzliwi wobec działalności jej gangu, chociaż poszczególni członkowie, jak Mattrim, są przyjaźnie nastawieni).
+    *   **[[Organisations/Harfiarze\|Harfiarze]]** (Generalnie podejrzliwi wobec działalności jej gangu, chociaż poszczególni członkowie, jak Mattrim, są przyjaźnie nastawieni).
 *   **Inne powiązania:**
     *   **[[Characters/Durnan\|Durnan]]** (Jej pracodawca w karczmie Pod Ziewającym Portalem, który nie jest świadomy jej prawdziwej natury).
 

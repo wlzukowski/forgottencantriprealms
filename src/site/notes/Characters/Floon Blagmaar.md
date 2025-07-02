@@ -47,8 +47,8 @@
     *   [[Characters/Renaer Neverember\|Renaer Neverember]] (Dobry przyjaciel, pomylony z nim podczas porwania)
     *   Bohaterowie Graczy (Jego wybawcy, jest im wiecznie wdzięczny)
 *   **Wrogowie:**
-    *   [[Gildia Xanathara\|Gildia Xanathara]] (Jego porywacze)
-    *   [[Zhentarimowie\|Zhentarimowie]] (Jego pierwotni, choć przez pomyłkę, porywacze)
+    *   [[Organisations/Gildia Xanathara\|Gildia Xanathara]] (Jego porywacze)
+    *   [[Organisations/Zhentarimowie\|Zhentarimowie]] (Jego pierwotni, choć przez pomyłkę, porywacze)
 *   **Rodzina:**
     *   Matka (nieżyjąca, pierwotna właścicielka jego naszyjnika z jednorożcem)
 

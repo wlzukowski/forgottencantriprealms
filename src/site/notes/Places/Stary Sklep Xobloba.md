@@ -30,7 +30,7 @@ Poprzedni właściciel sklepu jest nieznany. Kilka lat temu głębinowy gnom (sv
 *   **Władca/Przywódca:** [[Characters/Xoblob\|Xoblob]] (Właściciel)
 *   **Typ Rządów:** Prywatny biznes (niezrzeszony w gildii)
 *   **Główne Frakcje:**
-    *   [[Gildia Xanathara\|Gildia Xanathara]] Sklep jest przykrywką i placówką szpiegowską gildii. Xoblob jest szpiegiem Xanathara, a wypchany beholder służy jako czujnik do wróżenia dla samego Xanathara.
+    *   [[Organisations/Gildia Xanathara\|Gildia Xanathara]] Sklep jest przykrywką i placówką szpiegowską gildii. Xoblob jest szpiegiem Xanathara, a wypchany beholder służy jako czujnik do wróżenia dla samego Xanathara.
 
 ## Gospodarka i handel
 

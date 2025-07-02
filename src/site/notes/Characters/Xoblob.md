@@ -12,7 +12,7 @@
 *   **Rasa/Gatunek:** Głębinowy gnom (Svirfneblin)
 *   **Klasa/Rola:** Sklepikarz, Szpieg
 *   **Charakter:** Neutralny zły
-*   **Przynależność:** [[Gildia Xanathara\|Gildia Xanathara]]
+*   **Przynależność:** [[Organisations/Gildia Xanathara\|Gildia Xanathara]]
 *   **Typowa lokalizacja:** [[Places/Stary Sklep Xobloba\|Stary Sklep Xobloba]] (Dzielnica Portowa)
 *   **Status:** Żywy
 
@@ -35,7 +35,7 @@
 *   **Sposób bycia/Głos:** Mówi piskliwym, lecz powierzchownie przyjaznym tonem. Często wydmuchuje obłok fioletowego dymu, zanim się odezwie. Początkowo niechętnie dzieli się informacjami, ale można go przekonać odpowiednią łapówką (szczególnie unikalnym fioletowym przedmiotem).
 *   **Motywacje/Cele:** Utrzymanie swojej dziwnej, fioletowej egzystencji poprzez prowadzenie sklepu i służenie Gildii Xanathara, nie przyciągając przy tym niepotrzebnej uwagi ani gniewu.
 *   **Sekrety:**
-    *   Xoblob jest szpiegiem [[Gildia Xanathara\|Gildia Xanathara]].
+    *   Xoblob jest szpiegiem [[Organisations/Gildia Xanathara\|Gildia Xanathara]].
     *   Wypchany beholder na wystawie jego sklepu jest magicznym czujnikiem wróżbiarskim, przez który Xanathar widzi i słyszy wszystko, co dzieje się w sklepie.
     *   Jego obsesja na punkcie fioletu i beholderów bierze się z przetrwania eksplozji zarodnika gazowego w Podgórze, która nasyciła go zbłąkanymi wspomnieniami beholdera.
 
@@ -46,7 +46,7 @@
 *   **Sojusznicy:**
     *   **[[Xanathar\|Xanathar]]** (Pan)
 *   **Wrogowie:**
-    *   **[[Zhentarimowie\|Zhentarimowie]]** (z racji przynależności)
+    *   **[[Organisations/Zhentarimowie\|Zhentarimowie]]** (z racji przynależności)
     *   Każdy, kto zagraża jego sklepowi lub jego panu.
 *   **Inne powiązania:**
     *   **[[Characters/Floon Blagmaar\|Floon Blagmaar]]** (Był świadkiem jego porwania)

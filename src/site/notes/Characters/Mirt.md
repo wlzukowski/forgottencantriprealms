@@ -13,7 +13,7 @@
 *   **Rasa/Gatunek:** Człowiek (Illuskanin)
 *   **Klasa/Rola:** Zamaskowany Lord Waterdeep, Harfiarz, Doradca Jawnego Lorda
 *   **Charakter:** Chaotyczny Dobry
-*   **Przynależność:** [[Harfiarze\|Harfiarze]], [[Sojusz Lordów\|Sojusz Lordów]]
+*   **Przynależność:** [[Organisations/Harfiarze\|Harfiarze]], [[Sojusz Lordów\|Sojusz Lordów]]
 *   **Typowa lokalizacja:** Jego zrujnowana posiadłość w Dzielnicy Morskiej, karczma [[Pod Ziewającym Portalem\|Pod Ziewającym Portalem]], lub wszędzie tam, gdzie można znaleźć politykę i rozpustę.
 *   **Status:** Żywy
 
@@ -49,8 +49,8 @@
     *   **Harfiarze** (Starszy członek)
     *   **Postacie Graczy** (Potencjalny patron i kontakt frakcyjny)
 *   **Wrogowie:**
-    *   **[[Zhentarimowie\|Zhentarimowie]] (Manshoon)**
-    *   **[[Gildia Xanathara\|Gildia Xanathara]]**
+    *   **[[Organisations/Zhentarimowie\|Zhentarimowie]] (Manshoon)**
+    *   **[[Organisations/Gildia Xanathara\|Gildia Xanathara]]**
     *   **[[Ród Cassalanterów\|Ród Cassalanterów]]**
     *   [[Banda Krwawego Jastrzębia\|Banda Krwawego Jastrzębia]] (Według Remiksu Aleksandryjskiego, przegrał z nimi pieniądze)
 *   **Rodzina:**

@@ -39,8 +39,8 @@
 *   **Sojusznicy:**
     *   [[Straż Miejska\|Straż Miejska]] (jego podwładni i przełożeni)
 *   **Wrogowie:**
-    *   [[Gildia Xanathara\|Gildia Xanathara]]
-    *   [[Zhentarimowie\|Zhentarimowie]] (frakcja Manshoona)
+    *   [[Organisations/Gildia Xanathara\|Gildia Xanathara]]
+    *   [[Organisations/Zhentarimowie\|Zhentarimowie]] (frakcja Manshoona)
 *   **Rodzina:**
     *   Nieznana
 *   **Inne powiązania:**

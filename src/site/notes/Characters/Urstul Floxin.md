@@ -49,7 +49,7 @@
     *   **[[Kaevja Cynavern\|Kaevja Cynavern]]**, **Vevette Blackwater**, **Agorn Fuoco** (Pozostali porucznicy)
 *   **Wrogowie:**
     *   **[[Xanathar\|Xanathar]]** i Gildia Xanathara
-    *   [[Doom Raiders\|Doom Raiders]] (rywalizująca frakcja Zhentarimów)
+    *   [[Organisations/Doom Raiders\|Doom Raiders]] (rywalizująca frakcja Zhentarimów)
     *   Postacie graczy
 
 ---

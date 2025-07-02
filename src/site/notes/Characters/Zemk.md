@@ -30,7 +30,7 @@
 ## Odgrywanie postaci
 
 *   **Cechy osobowości:** Wrogi, uparty, paranoiczny, ponuro zdeterminowany.
-*   **Ideał:** **Władza.** [[Gildia Xanathara\|Gildia Xanathara]] jest największą siłą w podbrzuszu miasta, a służba jej to jedyna droga do przetrwania i zdobycia wpływów.
+*   **Ideał:** **Władza.** [[Organisations/Gildia Xanathara\|Gildia Xanathara]] jest największą siłą w podbrzuszu miasta, a służba jej to jedyna droga do przetrwania i zdobycia wpływów.
 *   **Więź:** Lojalny wobec swojego bezpośredniego przełożonego, **[[Characters/Grum'shar\|Grum'shar]]a**, i ostatecznie wobec **[[Xanathar\|Xanathar]]a**, którego panicznie się boi.
 *   **Wada:** Zbyt pewny siebie w bezpośredniej walce, całkowicie nieelastyczny i absolutnie bezlitosny. Będzie walczył na śmierć i życie, zamiast się poddać.
 *   **Sposób bycia/Głos:** Mówi niskim, chrapliwym, monotonnym głosem. Rzadko się odzywa, chyba że rzuca groźbę lub wyzwanie.
@@ -46,7 +46,7 @@
     *   **[[Krentz\|Krentz]]** (Tymczasowy współpracownik, jeśli Krentz przeżył bójkę w Ziewającym Portalu)
     *   **[[Xanathar\|Xanathar]]** (Mistrz Gildii)
 *   **Wrogowie:**
-    *   [[Zhentarimowie\|Zhentarimowie]]
+    *   [[Organisations/Zhentarimowie\|Zhentarimowie]]
     *   [[Straż Miejska\|Straż Miejska]]
     *   Wszyscy intruzi w kryjówce (tj. postacie graczy)
 *   **Rodzina:**

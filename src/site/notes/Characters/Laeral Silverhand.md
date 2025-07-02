@@ -13,7 +13,7 @@
 *   **Rasa:** Człowiek
 *   **Klasa/Rola:** Otwarty Lord Waterdeep, Arcymag
 *   **Charakter:** Chaotyczny Dobry
-*   **Przynależność:** [[Sojusz Lordów\|Sojusz Lordów]], [[Harfiarze\|Harfiarze]])
+*   **Przynależność:** [[Sojusz Lordów\|Sojusz Lordów]], [[Organisations/Harfiarze\|Harfiarze]])
 *   **Typowa lokalizacja:** Pałac Waterdeep (Dzielnica Zamkowa)
 *   **Status:** Żyje
 
@@ -42,7 +42,7 @@
 
 *   **Sojusznicy:**
     *   Elminster Aumar (Zaufany przyjaciel i doradca)
-    *   [[Characters/Mirt\|Mirt]] (Doradca, towarzysz z frakcji [[Harfiarze\|Harfiarze]] i Zamaskowany Lord)
+    *   [[Characters/Mirt\|Mirt]] (Doradca, towarzysz z frakcji [[Organisations/Harfiarze\|Harfiarze]] i Zamaskowany Lord)
     *   [[Characters/Jalester Silvermane\|Jalester Silvermane]] (Agent terenowy Sojuszu Lordów)
     *   [[Characters/Renaer Neverember\|Renaer Neverember]] (Przyjaciel)
     *   Bohaterowie graczy (Potencjalnie)

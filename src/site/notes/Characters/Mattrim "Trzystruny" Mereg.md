@@ -12,7 +12,7 @@
 *   **Rasa/Gatunek:** Człowiek (Illuskanin)
 *   **Klasa/Rola:** Bard, Szpieg Harfiarzy
 *   **Charakter:** Praworządny Dobry
-*   **Przynależność:** [[Harfiarze\|Harfiarze]]
+*   **Przynależność:** [[Organisations/Harfiarze\|Harfiarze]]
 *   **Typowa lokalizacja:** Karczma [[Pod Ziewającym Portalem\|Pod Ziewającym Portalem]], Posiadłość Czaszki Trolla (jako bywalec)
 *   **Status:** Żyje
 
@@ -42,10 +42,10 @@
 
 *   **Sojusznicy:**
     *   **[[Characters/Bonnie\|Bonnie]]:** Barmanka-sobowtór z karczmy [[Pod Ziewającym Portalem\|Pod Ziewającym Portalem]], z którą Mattrim się zaprzyjaźnił i którą pragnie chronić.
-    *   **[[Harfiarze\|Harfiarze]]:** Jego frakcja. Zna kryjówkę zwaną Twierdzą Dalagora w Czaszkoporcie.
+    *   **[[Organisations/Harfiarze\|Harfiarze]]:** Jego frakcja. Zna kryjówkę zwaną Twierdzą Dalagora w Czaszkoporcie.
     *   **[[Cal'al Claddani\|Cal'al Claddani]]:** Pół-drow, agent Harpersów w Czaszkoporcie, z którym Mattrim współpracuje.
 *   **Wrogowie:**
-    *   **[[Zhentarimowie\|Zhentarimowie]]:** Aktywnie szpieguje ich agentów w karczmie [[Pod Ziewającym Portalem\|Pod Ziewającym Portalem]].
+    *   **[[Organisations/Zhentarimowie\|Zhentarimowie]]:** Aktywnie szpieguje ich agentów w karczmie [[Pod Ziewającym Portalem\|Pod Ziewającym Portalem]].
 *   **Inne znajomości:**
     *   **[[Characters/Durnan\|Durnan]]:** Właściciel karczmy [[Pod Ziewającym Portalem\|Pod Ziewającym Portalem]], gdzie Mattrim mieszka i pracuje.
     *   **Bohaterowie Graczy:** Może zostać wybrany jako jeden z przyjaznych znajomych na początku kampanii i stać się stałym bywalcem w ich karczmie.

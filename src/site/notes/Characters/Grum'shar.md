@@ -8,7 +8,7 @@
 *   **Rasa/Gatunek:** Półork
 *   **Klasa/Rola:** Szef Gildii Xanathara, Czeladnik Maga
 *   **Charakter:** Chaotyczny Zły
-*   **Przynależność:** [[Gildia Xanathara\|Gildia Xanathara]]
+*   **Przynależność:** [[Organisations/Gildia Xanathara\|Gildia Xanathara]]
 *   **Typowa lokalizacja:** [[Kryjówka Gildii Xanathara\|Kryjówka Gildii Xanathara]] (Kanały pod Dzielnicą Portową)
 *   **Status:** Żywy (na początku Rozdziału 1)
 
@@ -42,7 +42,7 @@
     *   [[Characters/Zemk\|Zemk]] (Podwładny duergar w kryjówce)
     *   Różne gobliny i kenku z Gildii Xanathara (Podwładni)
 *   **Wrogowie:**
-    *   [[Zhentarimowie\|Zhentarimowie]]
+    *   [[Organisations/Zhentarimowie\|Zhentarimowie]]
     *   Każdy, kto wtrąca się w jego operacje (jak postacie graczy)
 *   **Rodzina:**
     *   Nieznana.

@@ -14,7 +14,7 @@
 *   **Rasa/Gatunek:** Człowiek (Mulan)
 *   **Klasa/Rola:** Arcymag, Lider frakcji Zhentarimów
 *   **Charakter:** Praworządny Zły
-*   **Przynależność:** [[Zhentarimowie\|Zhentarimowie]] (Frakcja Manshoona)
+*   **Przynależność:** [[Organisations/Zhentarimowie\|Zhentarimowie]] (Frakcja Manshoona)
 *   **Typowa lokalizacja:** [[Wieże Kolat\|Wieże Kolat]] (Dzielnica Południowa) i jego prywatne Pozawymiarowe Sanktuarium.
 *   **Status:** Żywy
 
@@ -56,8 +56,8 @@
     *   **[[Xanathar\|Xanathar]]:** Arcyrywal w Wielkiej Grze.
     *   **[[Characters/Laeral Silverhand\|Laeral Silverhand]]:** Obecna Otwarta Lord, którą zamierza zdetronizować.
     *   **[[Characters/Vajra Safahr\|Vajra Safahr]]:** Czarna Laska Waterdeep.
-    *   **Najeźdźcy Zagłady (The [[Doom Raiders\|Doom Raiders]]):** Rywalizująca frakcja Zhentarimów, którą dąży do zniszczenia lub przejęcia.
-    *   **[[Harfiarze\|Harfiarze]], Elminster, Halaster Blackcloak:** Potężni wrogowie, którzy podjęliby działania przeciwko niemu, gdyby jego obecność została odkryta.
+    *   **Najeźdźcy Zagłady (The [[Organisations/Doom Raiders\|Doom Raiders]]):** Rywalizująca frakcja Zhentarimów, którą dąży do zniszczenia lub przejęcia.
+    *   **[[Organisations/Harfiarze\|Harfiarze]], Elminster, Halaster Blackcloak:** Potężni wrogowie, którzy podjęliby działania przeciwko niemu, gdyby jego obecność została odkryta.
 
 ---
 

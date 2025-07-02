@@ -12,7 +12,7 @@
 *   **Rasa/Gatunek:** Elf słoneczny
 *   **Klasa/Rola:** Porucznik Zhentarimów, Mistrz Okazji i Negocjacji
 *   **Charakter:** Neutralny zły (domniemany, jako przywódca Zhentarimów)
-*   **Przynależność(i):** Zhentarimowie ([[Doom Raiders\|Doom Raiders]])
+*   **Przynależność(i):** Zhentarimowie ([[Organisations/Doom Raiders\|Doom Raiders]])
 *   **Typowa lokalizacja:** Gospoda [[pod Ziewającym Portalem\|pod Ziewającym Portalem]] (Tawerna)
 *   **Status:** Żywy (może zostać aresztowany i uwięziony w trakcie przygody)
 
@@ -30,7 +30,7 @@
 
 *   **Cechy osobowości:** Uroczy, cierpliwy, dyplomatyczny, z łatwością nawiązuje przyjaźnie.
 *   **Ideały:** Władza. „Władza przypada tym, którzy na nią zasługują”. Zhentarimowie to jego nowa rodzina i droga do potęgi.
-*   **Więzi:** Jest lojalny wobec swoich towarzyszy z [[Doom Raiders\|Doom Raiders]]
+*   **Więzi:** Jest lojalny wobec swoich towarzyszy z [[Organisations/Doom Raiders\|Doom Raiders]]
 *   **Wady:** Jego ambicja może sprawić, że zlekceważy zagrożenia lub zaufa niewłaściwym osobom, jeśli posłuży to jego celom.
 *   **Sposób bycia/Głos:** Mówi z gracją i pewnością siebie, nawet po pijanemu.
 *   **Motywacje/Cele:** Ustanowienie Poszukiwaczy Zagłady jako głównej siły Zhentarimów w Waterdeep, wypierając frakcję Manshoona. Stara się zawierać sojusze z potężnymi gildiami i szlachcicami, aby zalegalizować swoje działania.
@@ -49,7 +49,7 @@
 *   **Wrogowie:**
     *   [[Characters/Manshoon\|Manshoon]] (Rywalizujący przywódca Zhentarimów)
     *   [[Xanathar\|Xanathar]] (Wróg frakcji)
-    *   [[Harfiarze\|Harfiarze]] (Harpers) (którzy aktywnie go szpiegują)
+    *   [[Organisations/Harfiarze\|Harfiarze]] (Harpers) (którzy aktywnie go szpiegują)
     *   [[Straż Miejska\|Straż Miejska]] (która w końcu go aresztuje)
 *   **Inne powiązania:**
     *   Dasher Snobeedle (uratował go przed gangiem szczurołaków)

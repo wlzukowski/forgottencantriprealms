@@ -13,7 +13,7 @@
 *   **Rasa/Gatunek:** Człowiek (Czondatanin)
 *   **Klasa/Rola:** Poszukiwacz przygód, Czempion Tymory, (Tajny) Szpieg Gildii Xanathara
 *   **Charakter:** Neutralny Zły (pod kontrolą pożeracza intelektu); normalnie Neutralny Dobry
-*   **Przynależność(i):** [[Szara Gwardia\|Szara Gwardia]], [[Czarne Łzy\|Czarne Łzy]] (członek założyciel), (W tajemnicy) [[Gildia Xanathara\|Gildia Xanathara]]
+*   **Przynależność(i):** [[Szara Gwardia\|Szara Gwardia]], [[Czarne Łzy\|Czarne Łzy]] (członek założyciel), (W tajemnicy) [[Organisations/Gildia Xanathara\|Gildia Xanathara]]
 *   **Typowa lokalizacja:** Karczma [[Pod Ziewającym Portalem\|Pod Ziewającym Portalem]]
 *   **Status:** Żyje, ale jego mózg został zastąpiony przez pożeracza intelektu.
 
@@ -45,7 +45,7 @@
     *   [[Characters/Renaer Neverember\|Renaer Neverember]] (Przyjaciel)
     *   [[Characters/Vajra Safahr\|Vajra Safahr]] (Przyjaciółka i dowódczyni w Force Grey)
 *   **Wrogowie:**
-    *   [[Zhentarimowie\|Zhentarimowie]] (Aktywnie na nich poluje dla Xanathara)
+    *   [[Organisations/Zhentarimowie\|Zhentarimowie]] (Aktywnie na nich poluje dla Xanathara)
     *   Jego właśni przyjaciele (Nieświadomie)
 *   **Przełożeni:**
     *   [[Xanathar\|Xanathar]] (Tajny Pan)
