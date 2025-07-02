@@ -51,7 +51,7 @@
 *   **Wrogowie:**
     *   **[[Organisations/Zhentarimowie\|Zhentarimowie]] (Manshoon)**
     *   **[[Organisations/Gildia Xanathara\|Gildia Xanathara]]**
-    *   **[[Ród Cassalanterów\|Ród Cassalanterów]]**
+    *   **[[Organisations/Ród Cassalanterów\|Ród Cassalanterów]]**
     *   [[Banda Krwawego Jastrzębia\|Banda Krwawego Jastrzębia]] (Według Remiksu Aleksandryjskiego, przegrał z nimi pieniądze)
 *   **Rodzina:**
     *   **Asper** (Żona, zmarła)

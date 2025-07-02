@@ -77,7 +77,7 @@ Zhentarim Manshoona woli działać z cienia, stosując różnorodne złowrogie m
 ## Relacje
 - **Sojusznicy:** [[Ród Gralhund\|Ród Gralhund]] (tymczasowy i niestabilny sojusz z rozsądku).
 - **Rywale:** [[Organisations/Doom Raiders\|Doom Raiders]] (druga główna frakcja Zhentarimu w mieście).
-- **Wrogowie:** [[Organisations/Gildia Xanathara\|Gildia Xanathara]] (obecnie w stanie otwartej wojny), [[Characters/Laeral Silverhand\|Laeral Silverhand]], [[Characters/Vajra Safahr\|Vajra Safahr]] i [[Szara Gwardia\|Szara Gwardia]], [[Organisations/Harfiarze\|Harfiarze]].
+- **Wrogowie:** [[Organisations/Gildia Xanathara\|Gildia Xanathara]] (obecnie w stanie otwartej wojny), [[Characters/Laeral Silverhand\|Laeral Silverhand]], [[Characters/Vajra Safahr\|Vajra Safahr]] i [[Organisations/Szara Gwardia\|Szara Gwardia]], [[Organisations/Harfiarze\|Harfiarze]].
 - **Patroni/Klienci:** Manshoon służy tylko sobie, ale w razie potrzeby wykorzystuje i porzuca patronów, takich jak Gralhundowie.
 
 ---

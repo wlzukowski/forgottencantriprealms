@@ -64,7 +64,7 @@
 ## Informacje mechaniczne
 
 *   **Blok statystyk:** `Dodatek B` (Arcymag z modyfikacjami)
-*   **Kluczowe zdolności/Cechy:** Jako Otwarty Lord, Laeral dowodzi rządem i siłami zbrojnymi Waterdeep, w tym Strażą Miejską i Gwardią Miasta. Może mobilizować [[Szara Gwardia\|Szara Gwardia]] (Force Grey) za pośrednictwem Vajry Safahr. Chociaż jej moc osłabła, wciąż jest potężną arcymagiem, zdolną rzucać czary takie jak *niewidzialność* i *przyzwanie niebianina*.
+*   **Kluczowe zdolności/Cechy:** Jako Otwarty Lord, Laeral dowodzi rządem i siłami zbrojnymi Waterdeep, w tym Strażą Miejską i Gwardią Miasta. Może mobilizować [[Organisations/Szara Gwardia\|Szara Gwardia]] (Force Grey) za pośrednictwem Vajry Safahr. Chociaż jej moc osłabła, wciąż jest potężną arcymagiem, zdolną rzucać czary takie jak *niewidzialność* i *przyzwanie niebianina*.
 *   **Ekwipunek/Posiadane przedmioty:** Na oficjalne spotkania Zamaskowanych Lordów nosi *strój Lorda* (*Lord's ensemble*).
 
 ---

@@ -47,7 +47,7 @@
     *   **Intelektożercy:** Jego stworzenia i pupile, którymi kieruje jako szpiegami i agentami.
 *   **Wrogowie:**
     *   Każdy, kto przeszkadza w jego pracy lub działaniach Gildii Xanathara.
-    *   [[Szara Gwardia\|Szara Gwardia]] ([[Characters/Vajra Safahr\|Vajra Safahr]] w szczególności pragnie jego eliminacji).
+    *   [[Organisations/Szara Gwardia\|Szara Gwardia]] ([[Characters/Vajra Safahr\|Vajra Safahr]] w szczególności pragnie jego eliminacji).
 *   **Inne powiązania:**
     *   **[[Characters/Meloon Wardragon\|Meloon Wardragon]]:** Intelektożerca kontrolujący tego bohatera Waterdeep został stworzony przez Nihiloora i jemu podlega.
 

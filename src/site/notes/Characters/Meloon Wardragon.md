@@ -13,7 +13,7 @@
 *   **Rasa/Gatunek:** Człowiek (Czondatanin)
 *   **Klasa/Rola:** Poszukiwacz przygód, Czempion Tymory, (Tajny) Szpieg Gildii Xanathara
 *   **Charakter:** Neutralny Zły (pod kontrolą pożeracza intelektu); normalnie Neutralny Dobry
-*   **Przynależność(i):** [[Szara Gwardia\|Szara Gwardia]], [[Czarne Łzy\|Czarne Łzy]] (członek założyciel), (W tajemnicy) [[Organisations/Gildia Xanathara\|Gildia Xanathara]]
+*   **Przynależność(i):** [[Organisations/Szara Gwardia\|Szara Gwardia]], [[Czarne Łzy\|Czarne Łzy]] (członek założyciel), (W tajemnicy) [[Organisations/Gildia Xanathara\|Gildia Xanathara]]
 *   **Typowa lokalizacja:** Karczma [[Pod Ziewającym Portalem\|Pod Ziewającym Portalem]]
 *   **Status:** Żyje, ale jego mózg został zastąpiony przez pożeracza intelektu.
 

@@ -21,6 +21,7 @@ Pukanie do drzwi lub okna zaalarmuje grupę **kenku** wewnątrz, że ktoś nadch
 • Następnie Floon zostaje zaciągnięty na górę na przesłuchanie (Zhentarimowie chcą sprawdzić, czy będzie można zażądać za niego okupu).
 • Agenci Xanathara przypuszczają szturm na magazyn. Natychmiast znajdują „więźnia” (czyli Floona), zakładają, że to Renaer, a kilku z nich wyprowadza go pośpiesznie do swojej kryjówki w kanałach. W międzyczasie Renaer, korzystając z zamieszania na dole, uwalnia się z więzów i chowa w Obszarze Z2.
 • Agenci Xanathara pobieżnie przeszukują magazyn, a następnie uciekają, zostawiając za sobą kenku, aby zabili wszystkich Zhentów, którzy się pojawią.
+• Ciała zabitych Xenatrimów są przechowywane w jednym z pokojów na piętrze.
 
 **MARTWY WĄŻ:** Na dolnym dziedzińcu leży martwy, czarny latający wąż, przebity strzałą. (Notatka dla MG: [[Organisations/Zhentarimowie\|Zhentarimowie]] próbowali wysłać go jako posłańca podczas ataku, ale obserwator Xanathara go zestrzelił).
 
@@ -34,7 +35,7 @@ Gdy postacie próbują wejść, ustal, czy cztery **kenku** wewnątrz są świad
 
 Postać z narzędziami złodziejskimi może otworzyć zamek w drzwiach lub oknie udanym testem Zręczności o ST 10. Postacie, które wejdą cicho, mogą spróbować zaskoczyć kenku. Jeśli postacie zapukają przed wejściem lub ogłoszą swoje przybycie w inny sposób, kenku ukryją się, jak opisano powyżej.
 
->>Stoły i krzesła zostały niedbale porozrzucane po podłodze. Ciała tuzina mężczyzn leżą wzdłuż ścian, a ich rapiery i sztylety leżą w pobliżu. Po północnej stronie obszaru schody prowadzą na otwarty poziom powyżej.
+>>Stoły i krzesła zostały niedbale porozrzucane po podłodze. Na podłodze możecie zauważyć lekko zaschnięte już ślady krwi. Po północnej stronie obszaru schody prowadzą na otwarty poziom powyżej.
 
 Jeśli kenku nie są ukryte, dodaj:
 

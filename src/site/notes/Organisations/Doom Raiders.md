@@ -77,7 +77,7 @@ Doom Riders są pragmatyczni i zorientowani na biznes. Osiągają swoje cele pop
 
 ## Relacje
 - **Sojusznicy:** [[Drużyna\|Drużyna]] (potencjalnie). Szukają sojuszy z wpływowymi gildiami miejskimi i szlachtą.
-- **Rywale:** [[Ród Cassalanterów\|Ród Cassalanter]] (w branży bankowej), inne kompanie najemników.
+- **Rywale:** [[Organisations/Ród Cassalanterów\|Ród Cassalanter]] (w branży bankowej), inne kompanie najemników.
 - **Wrogowie:** [[Organisations/Zhentarimowie\|Zhentarimowie]], [[Organisations/Gildia Xanathara\|Gildia Xanathara]].
 - **Patroni/Klienci:** Różne osoby i grupy w Waterdeep potrzebujące pieniędzy, siły lub innych usług.
 

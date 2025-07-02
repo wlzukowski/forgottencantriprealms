@@ -85,7 +85,7 @@ Gildia Xanathara definiowana jest przez swoją brutalność i paranoję. Jej met
 
 ## Relacje
 - **Sojusznicy:** [[Grinda Garloth\|Grinda Garloth]] (zbrojmistrzyni z czarnego rynku), niepewny sojusz z gangiem szczurołaków Wyrzutków Odłamka.
-- **Rywale:** [[Ród Cassalanterów\|Ród Cassalanterów]], [[Bregan D'aerthe\|Bregan D'aerthe]]
+- **Rywale:** [[Organisations/Ród Cassalanterów\|Ród Cassalanterów]], [[Bregan D'aerthe\|Bregan D'aerthe]]
 - **Wrogowie:** [[Organisations/Zhentarimowie\|Zhentarimowie]] (obecnie w stanie otwartej wojny), [[Straż Miejska\|Straż Miejska]], [[Sojusz Lordów\|Sojusz Lordów]], [[Organisations/Harfiarze\|Harfiarze]].
 - **Patroni/Klienci:** Gildia nie ma patronów; służy tylko sobie. Ma wielu „klientów”, którzy płacą za ochronę.
 

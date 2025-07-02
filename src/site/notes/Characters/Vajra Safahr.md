@@ -13,7 +13,7 @@
 *   **Rasa/Gatunek:** Człowiek (Tethyrianka)
 *   **Klasa/Rola:** Arcymag, Wysoka Czarodziejka Waterdeep
 *   **Charakter:** Praworządny Neutralny
-*   **Przynależność:** [[Szara Gwardia\|Szara Gwardia]] (Przywódczyni), [[Sojusz Lordów\|Sojusz Lordów]]
+*   **Przynależność:** [[Organisations/Szara Gwardia\|Szara Gwardia]] (Przywódczyni), [[Sojusz Lordów\|Sojusz Lordów]]
 *   **Typowa lokalizacja:** Wieża Czarnego Kostura ([[Dzielnica Zamkowa\|Dzielnica Zamkowa]])
 *   **Status:** Żyje
 
