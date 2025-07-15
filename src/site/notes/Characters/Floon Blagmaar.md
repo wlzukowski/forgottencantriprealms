@@ -24,7 +24,7 @@
 *   **Płeć:** Mężczyzna
 *   **Wiek:** Wczesne lata 30.
 *   **Opis:** Floon to olśniewająco przystojny mężczyzna z długimi, falującymi, rudo-blond włosami i przenikliwymi niebiesko-zielonymi oczami. Ma kwadratową szczękę i czarujący, wiecznie obecny uśmiech. Jest szczupły i zwinny, często ubiera się w to, co uważa za „książęcy strój”, który jest stylowy, ale czasami krzykliwy.
-    *   Słynie z noszenia jarmarcznej, 6-calowej płaskorzeźby głowy jednorożca na łańcuchu z niebieskich pereł. *(Dodatek z Alexandrian Remix: Jest to święty symbol Lurue, który należał do jego matki.)*
+*   Słynie z noszenia jarmarcznej, 6-calowej płaskorzeźby głowy jednorożca na łańcuchu z niebieskich pereł. *(Dodatek z Alexandrian Remix: Jest to święty symbol Lurue, który należał do jego matki.)*
 
 ---
 

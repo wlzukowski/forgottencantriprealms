@@ -10,7 +10,7 @@
 
 *   **Pseudonimy:** Brak
 *   **Rasa/Gatunek:** Człowiek (Illuskańczyk)
-*   **Klasa/Rola:** Zawadiaka, Szlachcic, Harper
+*   **Klasa/Rola:** Zawadiaka, Szlachcic, Harfiarz
 *   **Charakter:** Chaotyczny Dobry
 *   **Przynależność(i):** [[Organisations/Harfiarze\|Harfiarze]], [[Organisations/Sojusz Lordów\|Sojusz Lordów]] (przez powiązania), Czarne Łzy (Remiks Aleksandryjski)
 *   **Typowa lokalizacja:** Gospoda [[Pod Ziewającym Portalem\|Pod Ziewającym Portalem]], różne tawerny i sale biesiadne. Jest właścicielem [[Brandarthall\|Brandarthall]] (dawniej Posiadłość Neveremberów) w Dzielnicy Morskiej, ale rzadko tam przebywa.
@@ -30,11 +30,11 @@
 
 *   **Cechy osobowości:** Posiada naturalny talent do dyplomacji oraz prawdziwą miłość do dobrego trunku i towarzystwa. Dzieli temperament ojca, ale i spryt matki, co czyni go zarówno porywczym, jak i bystrym. Jest szczery i lojalny wobec swoich przyjaciół.
 *   **Ideały:** Wolność i Sprawiedliwość. Renaer aktywnie broni mieszkańców Waterdeep przed tymi, którzy chcieliby pozbawić ich pieniędzy i praw, wliczając w to jego własnego ojca.
-*   **Więzi:** Jest głęboko skłócony ze swoim ojcem, [[Dagultem Neveremberem\|Dagult Neverember]], i nie znosi wszelkich komplikacji wynikających z knowań ojca. Jest niezwykle lojalny wobec swoich przyjaciół (w tym postaci graczy, jeśli zdobędą jego zaufanie) oraz pamięci swojej matki, Alethei Brandath.
+*   **Więzi:** Jest głęboko skłócony ze swoim ojcem, [[Dagult Neverember\|Dagultem Neveremberem]], i nie znosi wszelkich komplikacji wynikających z knowań ojca. Jest niezwykle lojalny wobec swoich przyjaciół (w tym postaci graczy, jeśli zdobędą jego zaufanie) oraz pamięci swojej matki, Alethei Brandath.
 *   **Wady:** Bywa lekkomyślny i zbyt ufny. Jego pogarda dla ojca może czasem zaciemniać jego osąd.
 *   **Sposób bycia/Głos:** Mówi z gracją i elokwencją. Nosi się z godnością szlachcica, ale bez arogancji.
 *   **Motywacje/Cele:** Prowadzić życie wolne od cienia swojego ojca i chronić miasto Waterdeep przed korupcją, zwłaszcza przed machinacjami ojca.
-*   **Sekrety:** Jest członkiem [[Organisations/Harfiarze\|Harfiarzy]]. Jest także założycielem klubu towarzyskiego dla poszukiwaczy przygód, zwanego [[Czarne Łzy\|Czarnymi Łzami]]. Nie był świadomy, że medalion żałobny z kości słoniowej, który dał mu ojciec, zawierał jedno z Oczu Golorra.
+*   **Sekrety:** Jest członkiem [[Organisations/Harfiarze\|Harfiarzy]]. Nie był świadomy, że medalion żałobny z kości słoniowej, który dał mu ojciec, zawierał jedno z Oczu Golorra.
 
 ---
 
@@ -74,7 +74,7 @@
 
 Renaer jest synem Dagulta Neverembera, zhańbionego byłego Otwartego Lorda Waterdeep, z którym nie utrzymuje kontaktów. Nie chce mieć nic wspólnego ze swoim ojcem ani jego intrygami i żyje z pokaźnego spadku po matce, zmarłej Lady Alethei Brandath. Na jej cześć zmienił nazwę rodzinnej posiadłości z Posiadłości Neveremberów na jej pierwotną nazwę, [[Brandarthall\|Brandarthall]].
 
-Jest znanym bon vivantem i hulaką, ale jest to w dużej mierze przykrywka dla jego działalności jako Harfiarza. Wiele lat temu on i jego przyjaciele (w tym [[Laraelra Harsard\|Laraelra Harsard]] i [[Characters/Meloon Wardragon\|Meloon Wardragon]]) odegrali kluczową rolę w uratowaniu [[Vajry Safahr\|Vajra Safahr]] i pomogli jej stać się [[Czarnym Kosturem\|Czarny Kostur]]. W następstwie tych wydarzeń on i jego przyjaciele założyli [[Czarne Łzy\|Czarne Łzy]], klub towarzyski z siedzibą w [[Roarke House\|Roarke House]].
+Jest znanym bon vivantem i hulaką, ale jest to w dużej mierze przykrywka dla jego działalności jako Harfiarza. Wiele lat temu on i jego przyjaciele (w tym [[Laraelra Harsard\|Laraelra Harsard]] i [[Characters/Meloon Wardragon\|Meloon Wardragon]]) odegrali kluczową rolę w uratowaniu [[Characters/Vajra Safahr\|Vajry Safahr]] i pomogli jej stać się Czarnym Kosturem. W następstwie tych wydarzeń on i jego przyjaciele założyli [[Czarne Łzy\|Czarne Łzy]], klub towarzyski z siedzibą w [[Roarke House\|Roarke House]].
 
 Był zamierzonym celem porwania przez Zhentarimów, które rozpoczyna przygodę, ponieważ wierzyli, że posiada on Oko Golorra. Udało im się go porwać, ale przez pomyłkę schwytali również jego przyjaciela, [[Floona Blagmaara\|Floon Blagmaar]]. [[Organisations/Zhentarimowie\|Zhentarimowie]] odkryli Oko wewnątrz medalionu żałobnego Renaera i zabrali je, zanim [[Organisations/Gildia Xanathara\|Gildia Xanathara]] zaatakowała magazyn, porywając Floona w wyniku pomyłki co do tożsamości.
 

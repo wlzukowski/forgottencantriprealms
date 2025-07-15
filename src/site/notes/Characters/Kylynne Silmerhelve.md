@@ -34,7 +34,7 @@ Kylynne Silmerhelve to diabelstwo, które porusza się z aurą energicznej, prof
 ---
 
 ## Przeszłość
-Niewiele wiadomo o przeszłości Kylynne Silmerhelve, ponieważ jest ona niezwykle skrytą osobą. Jest jedną z kilku sędziów służących miastu Waterdeep, działającą w sądach w Dzielnicy Zamkowej. Jej stanowisko wymaga od niej bycia ekspertką w złożonym kodeksie prawnym miasta, a także jest uprawniona do poświadczania oficjalnych transakcji, nakładania grzywien i wydawania wyroków w sprawach karnych. To ona przewodniczyła przekazaniu aktu własności Posiadłości Czaszkogórska od Volothampa Geddarma nowym właścicielom – transakcji, którą przeprowadziła z charakterystyczną dla siebie niecierpliwością.
+Niewiele wiadomo o przeszłości Kylynne Silmerhelve, ponieważ jest ona niezwykle skrytą osobą. Jest jedną z kilku sędziów służących miastu Waterdeep, działającą w sądach w Dzielnicy Zamkowej. Jej stanowisko wymaga od niej bycia ekspertką w złożonym kodeksie prawnym miasta, a także jest uprawniona do poświadczania oficjalnych transakcji, nakładania grzywien i wydawania wyroków w sprawach karnych. To ona przewodniczyła przekazaniu aktu własności Posiadłości Czaszkogórska od [[Characters/Volothamp Geddarm\|Volothampa Geddarma]] nowym właścicielom.
 
 ---
 
@@ -48,16 +48,16 @@ Kylynne jest niecierpliwa i sprawia wrażenie wiecznie spóźnionej. Jest skrupu
 *   **Nawigator Biurokracji:** Jest wysoce wykwalifikowana w poruszaniu się po złożonej biurokracji miasta i wie dokładnie, które formularze złożyć i do których urzędników się udać, aby załatwić sprawy.
 
 ### Informacje Bojowe
-Kylynne jest osobą niewalczącą. Zgodnie z polityką miasta, podczas pełnienia oficjalnych obowiązków zawsze towarzyszą jej członkowie Straży Miejskiej. Jeśli zaczną się kłopoty, natychmiast zwróci się do swoich strażników, aby się nimi zajęli, podczas gdy ona zabezpieczy siebie i swoje dokumenty prawne.
+Kylynne jest osobą niewalczącą. Zgodnie z polityką miasta, podczas pełnienia oficjalnych obowiązków zawsze towarzyszą jej członkowie [[Straż Miejska\|Straży Miejskiej]]. Jeśli zaczną się kłopoty, natychmiast zwróci się do swoich strażników, aby się nimi zajęli, podczas gdy ona zabezpieczy siebie i swoje dokumenty prawne.
 - **Preferowana taktyka:** Unikanie walki, wzywanie straży.
 - **Kluczowe zdolności/czary:** Brak.
-- **Blok statystyk [[Szlachcic\|Szlachcic]]** lub **[[Plebejusz\|Plebejusz]]**, bez akcji bojowych.
+- **Blok statystyk Szlachcic** lub **Plebejusz**, bez akcji bojowych.
 
 ---
 
 ## Posiadane Dobra i Zasoby
 *   **Ekwipunek:** Pieczęć sędziowska, różne dokumenty prawne i księgi, klucze do biur sądowych.
-*   **Majątek i Własność:** Jako sędzia miejski, Kylynne jest dobrze wynagradzana i prowadzi wygodny, choć nie luksusowy, tryb życia. Prawdopodobnie posiada szanowany dom w Dzielnicy Zamkowej lub Północnej.
+*   **Majątek i Własność:** Jako sędzia miejski, Kylynne jest dobrze wynagradzana i prowadzi wygodny, choć nie luksusowy, tryb życia. Prawdopodobnie posiada szanowany dom w [[Dzielnica Zamkowa\|Dzielnicy Zamkowej]] lub Północnej.
 *   **Wpływy i Znajomości:** Jako sędzia, Kylynne posiada znaczącą władzę prawną. Może wezwać Straż Miejską (City Watch) i Gwardię Miejską (City Guard) w celu egzekwowania prawa i zapewnienia bezpieczeństwa. Utrzymuje robocze relacje ze wszystkimi gildiami miasta, przynajmniej w kwestiach prawnych.
 
 ---
@@ -89,13 +89,12 @@ Kylynne jest znana tym, którzy mieli do czynienia z sądem, jako jedna z „cza
 ## Sekcja dla MG (Prywatne notatki)
 
 ### Sekrety
-- **[Sekret 1]:** Niecierpliwość Kylynne jest maską skrywającą jej niepewność siebie. Jako diabelstwo czuje, że musi pracować dwa razy ciężej i być dwa razy bardziej wydajna niż jej ludzcy koledzy, aby być postrzeganą jako im równa. Każdą postrzeganą zniewagę wobec jej kompetencji traktuje jako poważną, osobistą obrazę.
+- **Sekret 1:** Niecierpliwość Kylynne jest maską skrywającą jej niepewność siebie. Jako diabelstwo czuje, że musi pracować dwa razy ciężej i być dwa razy bardziej wydajna niż jej ludzcy koledzy, aby być postrzeganą jako im równa. Każdą postrzeganą zniewagę wobec jej kompetencji traktuje jako poważną, osobistą obrazę.
 
 ### Zaczepki Fabularne
-1.  **Przeszkoda Prawna:** Własność Posiadłości Czaszkogórska przez drużynę zostaje zakwestionowana przez Emmeka Frewna lub innego rywala. Muszą przedstawić swoją sprawę przed sędzią Silmerhelve, której trzymanie się przepisów czyni ją trudnym, ale bezstronnym sędzią.
-2.  **Przysługa dla Sędziego:** Złożony dokument prawny związany z jednym z wrogów (lub sojuszników) drużyny zaginął z akt sądowych pod opieką Kylynne. Obawiając się uszczerbku na reputacji, może dyskretnie wynająć drużynę, aby go odzyskała, zanim jego brak zostanie oficjalnie odnotowany.
-3.  **Ochrona Świadków:** Kylynne przewodniczy procesowi niebezpiecznego przestępcy, którego schwytała drużyna (np. porucznika Zhentarimów lub egzekutora Gildii Xanathara). Sojusznicy przestępcy mogą próbować uciszyć świadków lub zastraszyć sędzię, zmuszając drużynę do ochrony Kylynne.
-4.  **Akt Własności jako Wskazówka:** Jeśli drużyna zgubi akt własności Posiadłości Czaszkogórska, może potrzebować udać się do Kylynne, aby uzyskać kopię. Będzie ona miała zapis transakcji, co może stać się ważne, jeśli własność tawerny zostanie zakwestionowana lub jeśli złoczyńca spróbuje użyć podrobionego aktu, aby uzyskać do niej dostęp.
+1.  **Przysługa dla Sędziego:** Złożony dokument prawny związany z jednym z wrogów (lub sojuszników) drużyny zaginął z akt sądowych pod opieką Kylynne. Obawiając się uszczerbku na reputacji, może dyskretnie wynająć drużynę, aby go odzyskała, zanim jego brak zostanie oficjalnie odnotowany.
+2.  **Ochrona Świadków:** Kylynne przewodniczy procesowi niebezpiecznego przestępcy, którego schwytała drużyna (np. porucznika Zhentarimów lub egzekutora Gildii Xanathara). Sojusznicy przestępcy mogą próbować uciszyć świadków lub zastraszyć sędzię, zmuszając drużynę do ochrony Kylynne.
+3.  **Akt Własności jako Wskazówka:** Jeśli drużyna zgubi akt własności Posiadłości Czaszkogórska, może potrzebować udać się do Kylynne, aby uzyskać kopię. Będzie ona miała zapis transakcji, co może stać się ważne, jeśli własność tawerny zostanie zakwestionowana lub jeśli złoczyńca spróbuje użyć podrobionego aktu, aby uzyskać do niej dostęp.
 
 ### Odgrywanie tej BN
 - **Głos i Sposób Bycia:** Mów szybko i precyzyjnie. Bębnij palcami o biurko. Często spoglądaj na zegar wodny. Wzdychaj z irytacją przy jakichkolwiek opóźnieniach.
