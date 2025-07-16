@@ -5,7 +5,7 @@
 ### Kryjówka Zhentów
 ![](https://roleplayinggm.home.blog/wp-content/uploads/2019/08/c1002.png)
 >> Początek nocy ogarnia miasto Waterdeep. Kamienie bruku pokrywającego ulice Dzielnicy Portowej odbijają pierwsze promienie światła młodego jeszcze księżyca.
->> Jedna z ulic jednak wydaje się być dzisiaj wyjątkowo niespokojna, znana jako alejka Świec stanowi teraz arenę pewnego rodzaju późnowieczornych perturbacji. Niewidzialny obecnie około półmetrowy zielony stworek - Quasit - poprzez swoje małe czarne oczka z fascynacją obserwuje otaczający go chaos. Wyłamane drzwi wejściowe prowadzące do czyjejś własności prywatnej w ramie których stoi właśnie stwór o głowie kruka - Kemku, [[Players/Dalmiir Bloodbrow\|Dalmiira]] siedzącego na przeciwko pod znajdującym się w rogu zlewem oraz starszą panią stojącej na schodach w nocnej koszuli z nocnikiem w ręku z wyrazem głębokiego przerażenia na jej twarzy.
+>> Jedna z ulic jednak wydaje się być dzisiaj wyjątkowo niespokojna, znana jako alejka Świec stanowi teraz arenę pewnego rodzaju późnowieczornych perturbacji. Niewidzialny obecnie około półmetrowy zielony stworek - Quasit - poprzez swoje małe czarne oczka z fascynacją obserwuje otaczający go chaos. Między innymi wyłamane drzwi wejściowe prowadzące do czyjejś własności prywatnej w ramie których stoi właśnie stwór o głowie kruka - Kemku, [[Players/Dalmiir Bloodbrow\|Dalmiira]] siedzącego na przeciwko pod znajdującym się w rogu zlewem oraz starszą panią stojącą na schodach w nocnej koszuli z nocnikiem w ręku z wyrazem głębokiego przerażenia na jej twarzy.
 >> Na zewnątrz Faelynn oraz Shukkul próbują przekonać Kemku oraz inne przypadkowe osoby wyglądające właśnie z okien, że jest to tylko mała rodzinna kłótnia. [[Players/Bezaliel\|Bezaliel]] spogląda na to wszystko przez oczy Quasita, jej oczodoły są wypełnione teraz pustką pochłaniającą i tak małodostępne światło jedynej nadal działającej tu latarni, chwilę później, jej oczy wracają do swojego naturalnego koloru, a jej myśli skupiają się na jedynym pytaniu: Gdzie jest Floon?
 
 Kryjówka przy [[Uliczka Świec\|Uliczce Świec]] (patrz mapa 1.1) to zrujnowany, dwupiętrowy magazyn. Czarna Sieć (The Black Network) ma inne sanktuaria w zniszczonych budynkach, takich jak ten, w całym Waterdeep (co oznacza, że plan tego miejsca może być ponownie wykorzystany dla innych kryjówek [[Organisations/Zhentarimowie\|Zhentów]]).
@@ -67,7 +67,7 @@ W noc porwania [[Characters/Renaer Neverember\|Renaer]] martwił się, że [[Cha
 
 Jeśli postać zapyta [[Characters/Renaer Neverember\|Renaera]], dlaczego [[Organisations/Zhentarimowie\|Zhentarimowie]] go porwali, udzieli następującej prawdziwej odpowiedzi:
 
->>"[[Organisations/Zhentarimowie\|Zhentarimowie]] sądzą, że mój ojciec zdefraudował dużą ilość złota, gdy był Jawnym Lordem, i że ukrył smoki (złoto) gdzieś w mieście. Myślą, że mogą je znaleźć, używając artefaktu zwanego [[Kamień Golorra\|Kamieniem Golorra]], który do niedawna był w rękach [[Organisations/Gildia Xanathara\|Gildii Xanathara]]. Najwyraźniej ktoś go ukradł. [[Organisations/Zhentarimowie\|Zhentowie]] myśleli, że coś o tym wiem, ale tak nie jest. Mój ojciec i ja nie rozmawialiśmy od lat."
+>>"[[Organisations/Zhentarimowie\|Zhentarimowie]] sądzą, że mój ojciec zdefraudował dużą ilość złota, gdy był Jawnym Lordem, i że ukrył smoki (złoto) gdzieś w mieście. Myślą, że mogą je znaleźć, używając artefaktu zwanego [[Items/Kamień Golorra\|Kamieniem Golorra]], który do niedawna był w rękach [[Organisations/Gildia Xanathara\|Gildii Xanathara]]. Najwyraźniej ktoś go ukradł. [[Organisations/Zhentarimowie\|Zhentowie]] myśleli, że coś o tym wiem, ale tak nie jest. Mój ojciec i ja nie rozmawialiśmy od lat."
 
 ### Z3. Tajne Pomieszczenie
 
@@ -261,20 +261,16 @@ Jeśli postacie pokonają [[Roscoe Underbough\|Roscoe]] lub przemkną obok niego
 ### Nagrody
 
 > Ciepło powietrza oraz gąszcz zapachów uderza was niespodziewanie, w chwili, gdy przekraczacie progi Pod Ziewającym Portalem. Przy stolikach widać pojedyncze osoby dopijających swoje trunki bądź niewielkie grupy rozmawiających ze sobą wizytorów. Obsługa tego miejsca, barczysty Drakon o czerwonych łuskach oraz kobieta o długich, czarnych włosach leniwie przechadzają się po pomieszczeniu sprzątając resztki ze stołów... Na środku pomieszczenia, obok studni widać dużo, lekko zielenawą tuszę stworzenia o długim nosie i zielonych, twardych w dotyku włosach - trolla. Obecność ciała wydaje się nie robić na nikim wrażenia.
-> Volo siedzi w głębi pomieszczenia, a towarzyszy mu tylko kufel piwa, na który wydaje sie spoglądać z niepokojem.
+> Volo siedzi w głębi pomieszczenia, a towarzyszy mu tylko kufel piwa, na który wydaje się spoglądać z niepokojem.
 > Zauważywszy Waszą obecność Volo zrywa się i biegnie, obejmując swojego przyjaciela.
 
 #### Dobry Uczynek
 
 Jeśli postacie ponownie połączą [[Characters/Volothamp Geddarm\|Volo]] z [[Characters/Floon Blagmaar\|Floonem]], [[Characters/Volothamp Geddarm\|Volo]] spojrzy na nich z dość zawstydzoną miną, wyjaśniając ich nagrodę:
 
->>"Cóż, muszę Wam wyznać, że mam niewiele monet do stracenia. Ale niech nikt nigdy nie mówi, że [[Characters/Volothamp Geddarm\|Volo]] nie dotrzymuje obietnicy. Pozwólcie, że wręczę wam coś znacznie cenniejszego." Wyciąga tubę na zwój. "Akt własności niezwykłej nieruchomości tutaj w Waterdeep! Jeszcze niewypełniony... a więc będziemy potrzebować sędziego pokoju, aby poświadczył przeniesienie własności."
+>>"Cóż, muszę Wam wyznać, że mam niewiele monet do stracenia. Ale niech nikt nigdy nie mówi, że [[Characters/Volothamp Geddarm\|Volo]] nie dotrzymuje obietnicy. Pozwólcie, że wręczę wam coś znacznie cenniejszego." Będziemy potrzebować sędziego pokoju, aby poświadczył przeniesienie własności."
 
 Tuba zawiera akt własności [[Posiadłość Trollskull\|Posiadłości Trollskull]] (Trollskull Manor), historycznego budynku w [[Dzielnica Północna\|Dzielnicy Północnej]], który postacie mogą uznać za swoją bazę wypadową. Akt został poświadczony notarialnie i wydaje się legalny (ponieważ jest). [[Characters/Volothamp Geddarm\|Volo]] niedawno kupił tę nieruchomość, ponieważ krążą plotki, że jest nawiedzona, i miał nadzieję, że zbadanie jej może zaowocować rozdziałem do jego następnej książki, *Volo's Guide to Spirits and Specters*.
-
-Oczywiście. Na podstawie dostarczonych informacji z podręcznika *Waterdeep: Smoczy Skarb* oraz w kontekście Remiksu Aleksandryjskiego, oto przykład interakcji postaci z Magistratką Kylynne Silmerhelve w sprawie przeniesienia aktu własności Posiadłości Czaszkoczerep.
-
-Ta scena zakłada, że Bohaterowie Graczy (BG) właśnie uratowali Floona i zwrócili go wdzięcznemu, choć finansowo zakłopotanemu, Volothampowi Geddarmowi.
 
 ***
 
@@ -283,8 +279,6 @@ Ta scena zakłada, że Bohaterowie Graczy (BG) właśnie uratowali Floona i zwr�
 **Przygotowanie Sceny:** Budynek sądu to imponujący kamienny gmach. Powietrze wewnątrz pachnie starym pergaminem/ Odgłosy waszych kroków rozbrzmiewają echem w wielkiej sali, gdy w towarzystwie lekko zdenerwowanego Vola zostajecie wreszcie wprowadzeni do małego, ciasnego biura.
 
 W biurze dominują górujące stosy zwojów i papierów, przewiązane postrzępionymi wstążkami. Za dużym dębowym biurkiem siedzi diabelstwo o ostrych rysach twarzy, z małymi, zgrabnymi rogami zakręcającymi do tyłu i oczami, które zdają się na wylot przenikać Vola. Nie wstaje, gdy wchodzicie, jedynie stuka piórem w biurko z wyrazem głębokiego zniecierpliwienia.
-
-**(Interakcja)**
 
 > Volo odchrząkuje, wypinając dumnie pierś. "Magistratko, moje najgłębsze podziękowania za przyjęcie nas w tak krótkim terminie! Pozwól, że przedstawię ci tych oto bohaterów, o których wspominałem! Wybawców mojego drogiego przyjaciela, Floona!"
 > *Spojrzenie Kylynne przemyka po was, jej wyraz twarzy pozostaje niezmieniony. Nie interesuje jej wasza historia ani heroizm. Skupia się na dokumentach leżących przed nią.* "Geddarm, akt własności?"

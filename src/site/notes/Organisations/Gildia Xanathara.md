@@ -26,7 +26,7 @@ Swoim rekrutom Gildia Xanathara składa prostą propozycję: władzę, bogactwo 
 
 ### Prawdziwe cele
 - **Wyeliminowanie Zhentarimów:** Xanathar jest przekonany, że Zhentarimowie go okradli i dąży do całkowitego zniszczenia ich obecności w Waterdeep.
-- **Odzyskanie *[[Kamień Golorra\|Kamienia Golorr]]*:** Xanathar wierzy, że Kamień jest kluczem do Enigmy Lorda Neverembera. Utraciwszy go na rzecz Dalakhara, odzyskanie go jest najwyższym priorytetem beholdera. Dąży on również do odnalezienia trzech Oczu, by przywrócić Kamieniowi pełną moc.
+- **Odzyskanie *[[Items/Kamień Golorra\|Kamienia Golorr]]*:** Xanathar wierzy, że Kamień jest kluczem do Enigmy Lorda Neverembera. Utraciwszy go na rzecz Dalakhara, odzyskanie go jest najwyższym priorytetem beholdera. Dąży on również do odnalezienia trzech Oczu, by przywrócić Kamieniowi pełną moc.
 - **Przejęcie Skarbca Smoków:** Xanathar pragnie dla siebie pół miliona złotych smoków ukrytych w skarbcu, wierząc, że skarb byłby najbezpieczniejszy pod jego bezpośrednim, czujnym okiem.
 - **Zdominowanie podziemnego świata Waterdeep:** Xanathar nie toleruje rywali. Jego ostatecznym celem jest absolutna kontrola nad wszelką działalnością przestępczą w mieście.
 

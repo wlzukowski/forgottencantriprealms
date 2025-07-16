@@ -15,7 +15,7 @@
 > *"Mamy być sprawiedliwi i łaskawi! Mamy kierować się nie tylko inicjatywą, ale i własnym osądem!"*
 
 ## Przegląd
-Harfiarze to półtajna organizacja altruistów, działających zza kulis, aby władza nie wpadła w ręce złych tyranów. W Głębi Wód stanowią rozproszoną siatkę szpiegów i sympatyków, którzy przeciwstawiają się machinacjom frakcji takich jak [[Organisations/Zhentarimowie\|Zhentarimowie]] czy [[Organisations/Gildia Xanathara\|Gildia Xanathara]]. W jeszcze większej tajemnicy wiedzą o diabelskim kulcie [[Organisations/Ród Cassalanterów\|Cassalanterów]] i są głęboko zaniepokojeni starożytnym zagrożeniem znanym jako Abolethowa Suwerenność, wierząc, że *[[Kamień Golorra\|Kamień Golorra]]* może zawierać kluczowe informacje wywiadowcze na jego temat. Działają w wielkiej tajemnicy, komunikując się za pomocą zaczarowanych posłańców i spotykając się w tajnych miejscach.
+Harfiarze to półtajna organizacja altruistów, działających zza kulis, aby władza nie wpadła w ręce złych tyranów. W Głębi Wód stanowią rozproszoną siatkę szpiegów i sympatyków, którzy przeciwstawiają się machinacjom frakcji takich jak [[Organisations/Zhentarimowie\|Zhentarimowie]] czy [[Organisations/Gildia Xanathara\|Gildia Xanathara]]. W jeszcze większej tajemnicy wiedzą o diabelskim kulcie [[Organisations/Ród Cassalanterów\|Cassalanterów]] i są głęboko zaniepokojeni starożytnym zagrożeniem znanym jako Abolethowa Suwerenność, wierząc, że *[[Items/Kamień Golorra\|Kamień Golorra]]* może zawierać kluczowe informacje wywiadowcze na jego temat. Działają w wielkiej tajemnicy, komunikując się za pomocą zaczarowanych posłańców i spotykając się w tajnych miejscach.
 
 ---
 
@@ -106,7 +106,7 @@ Harfiarze to dobrze znana, lecz słabo rozumiana organizacja. Prości ludzie, kt
 
 ### Sekrety
 - **Infiltracja:** Komórka Harfiarzy w Głębi Wód jest niebezpiecznie zinfiltrowana przez podwójnych agentów Zhentarimów, lojalnych wobec [[Manshoona\|Manshoona]].
-- **Prawdziwa Nagroda:** Ich głównym celem w Wielkiej Grze nie jest złoto, ale zabezpieczenie *[[Kamień Golorra\|Kamienia Golorra]]*, aby zdobyć informacje na temat kosmicznego zagrożenia znanego jako Abolethowa Suwerenność.
+- **Prawdziwa Nagroda:** Ich głównym celem w Wielkiej Grze nie jest złoto, ale zabezpieczenie *[[Items/Kamień Golorra\|Kamienia Golorra]]*, aby zdobyć informacje na temat kosmicznego zagrożenia znanego jako Abolethowa Suwerenność.
 - **Tajny Sąd:** Harfiarze utrzymują tajny trybunał w magicznie ukrytej geodzie głęboko w Górze Głębokiej, gdzie widmowy "Wysoki Harfiarz" przewodniczy wewnętrznym sporom.
 
 ### Zaczepki Fabularne

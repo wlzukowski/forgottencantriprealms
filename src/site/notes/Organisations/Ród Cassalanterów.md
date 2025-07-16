@@ -38,7 +38,7 @@ Publicznie Cassalanterowie to szanowany i filantropijny ród szlachecki, znany z
 ## Historia
 Cassalanterowie to stary i szanowany ród szlachecki z Waterdeep. Jednak kilka lat temu popadli w kłopoty finansowe i stanęli w obliczu bankructwa. W desperacji Victoro i Ammalia zawarli pakt z Asmodeuszem, Władcą Dziewięciu Piekieł. W zamian za bogactwo, władzę i długie życie oddali dusze swoich dzieci. Dusza ich najstarszego syna, Osvaldo, została zabrana natychmiast, a jego ciało przemieniono w diabła łańcuchowego, który jest teraz uwięziony na strychu ich willi.
 
-Ich los finansowy cudownie się odwrócił, a Cassalanterowie odnieśli większy sukces niż kiedykolwiek wcześniej. Dowiedzieli się o Enigmie Neverembera i dzięki własnym badaniom odkryli, że jedno z trzech Oczu *[[Kamień Golorra\|Kamienia Golorra]]* jest ukryte w krypcie matki Renaera Neverembera, Lady Alethei Brandath. Z powodzeniem odzyskali to Oko. Kiedy później dowiedzieli się o skarbie wartym pół miliona smoków, ich uwaga w całości skupiła się na jego zdobyciu, aby wypełnić warunki piekielnego kontraktu i ocalić dwójkę pozostałych dzieci przed potępieniem.
+Ich los finansowy cudownie się odwrócił, a Cassalanterowie odnieśli większy sukces niż kiedykolwiek wcześniej. Dowiedzieli się o Enigmie Neverembera i dzięki własnym badaniom odkryli, że jedno z trzech Oczu *[[Items/Kamień Golorra\|Kamienia Golorra]]* jest ukryte w krypcie matki Renaera Neverembera, Lady Alethei Brandath. Z powodzeniem odzyskali to Oko. Kiedy później dowiedzieli się o skarbie wartym pół miliona smoków, ich uwaga w całości skupiła się na jego zdobyciu, aby wypełnić warunki piekielnego kontraktu i ocalić dwójkę pozostałych dzieci przed potępieniem.
 
 ---
 
