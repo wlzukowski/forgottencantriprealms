@@ -43,7 +43,7 @@
 
 *   **Sojusznicy:**
     *   **[[Characters/Grum'shar\|Grum'shar]]** (Szef)
-    *   **[[Krentz\|Krentz]]** (Tymczasowy współpracownik, jeśli Krentz przeżył bójkę w Ziewającym Portalu)
+    *   **[[Characters/Krentz\|Krentz]]** (Tymczasowy współpracownik, jeśli Krentz przeżył bójkę w Ziewającym Portalu)
     *   **[[Characters/Xanathar\|Xanathar]]** (Mistrz Gildii)
 *   **Wrogowie:**
     *   [[Organisations/Zhentarimowie\|Zhentarimowie]]

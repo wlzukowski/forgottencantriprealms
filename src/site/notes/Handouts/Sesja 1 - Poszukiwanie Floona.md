@@ -23,19 +23,19 @@ Gdy postacie relaksują się w sali głównej [[Pod Ziewającym Portalem\|Pod Zi
 
 >>Nagle cały hałas zostaje przerwany przez okrzyk: "Mówiłem Ci, masz tu nie przychodzić, świnio". Kilka stolików dalej widzicie krępego mężczyznę, którego ogolona głowa pokryta jest tatuażami w kształcie oczu. Za nim stoi czterech innych, gotowych dołączyć do walki ludzi. Na przeciwko siedzi półorczyca. "Ty to, kurwa, mówisz po tej rzezi?" strzela knykciami, ryczy i rzuca się na wytatuowaną postać – ale zanim zdążycie zobaczyć, czy polała się krew, tłum gapiów zbiera się wokół bójki. Co robicie?
 
-Ludzkimi uczestnikami bójki jest pięciu członków [[Organisations/Gildia Xanathara\|Gildii Xanathara]] (Chaotyczni źli ludzie **bandyci**). Ten z tatuażami w kształcie oczu na łysej głowie to ich przywódca, [[Krentz\|Krentz]]. Ich przeciwniczka to [[Characters/Yagra Stonefist\|Yagra Stonefist]].
+Ludzkimi uczestnikami bójki jest pięciu członków [[Organisations/Gildia Xanathara\|Gildii Xanathara]] (Chaotyczni źli ludzie **bandyci**). Ten z tatuażami w kształcie oczu na łysej głowie to ich przywódca, [[Characters/Krentz\|Krentz]]. Ich przeciwniczka to [[Characters/Yagra Stonefist\|Yagra Stonefist]].
 
 #### Włączenie się do walki
 
-Jeśli postacie zdecydują się dołączyć do bójki, niech wszyscy wykonają rzut na inicjatywę. Jednak walka jest już prawie zakończona, zanim zdążą przepchnąć się przez hałaśliwych gapiów. [[Krentz\|Krentzowi]] pozostały tylko 3 punkty wytrzymałości i próbuje uciec spod [[Yagra Strongfist\|Yagry]], ale czterej pozostali członkowie [[Organisations/Gildia Xanathara\|Gildii Xanathara]] są gotowi ją zaatakować.
+Jeśli postacie zdecydują się dołączyć do bójki, niech wszyscy wykonają rzut na inicjatywę. Jednak walka jest już prawie zakończona, zanim zdążą przepchnąć się przez hałaśliwych gapiów. [[Characters/Krentz\|Krentzowi]] pozostały tylko 3 punkty wytrzymałości i próbuje uciec spod [[Yagra Strongfist\|Yagry]], ale czterej pozostali członkowie [[Organisations/Gildia Xanathara\|Gildii Xanathara]] są gotowi ją zaatakować.
 
 Odciągnięcie [[Characters/Yagra Stonefist\|Yagra Stonefist]] od Krntza wymaga udanego testu Siły przeciwstawionego testowi Siły. [[Characters/Yagra Stonefist\|Yagra Stonefist]] podziękuje postaciom, jeśli jej pomogą, ale będzie rozczarowana, że wtrącili się do walki.
 
-Zapamiętaj, jak postacie potraktują [[Krentz\|Krentza]] w tej scenie. Jeśli przeżyje, mogą go ponownie spotkać w jednej z kryjówek [[Organisations/Gildia Xanathara\|Gildii Xanathara]] w kanałach (patrz obszar Q5, strona 28).
+Zapamiętaj, jak postacie potraktują [[Characters/Krentz\|Krentza]] w tej scenie. Jeśli przeżyje, mogą go ponownie spotkać w jednej z kryjówek [[Organisations/Gildia Xanathara\|Gildii Xanathara]] w kanałach (patrz obszar Q5, strona 28).
 
 #### Trzymanie się z dala
 
-Jeśli postacie nie wtrącą się do bójki, [[Yagra Strongfist\|Yagra]] znokautuje [[Krentz\|Krentza]], ale następnie zostanie pobita do nieprzytomności przez jego towarzyszy. [[Characters/Durnan\|Durnan]], właściciel [[Pod Ziewającym Portalem\|Pod Ziewającym Portalem]], wskazuje na drzwi. "Wynocha!" warczy, a członkowie [[Organisations/Gildia Xanathara\|Gildii Xanathara]] uciekają, niosąc nieprzytomnego [[Krentz\|Krentza]].
+Jeśli postacie nie wtrącą się do bójki, [[Yagra Strongfist\|Yagra]] znokautuje [[Characters/Krentz\|Krentza]], ale następnie zostanie pobita do nieprzytomności przez jego towarzyszy. [[Characters/Durnan\|Durnan]], właściciel [[Pod Ziewającym Portalem\|Pod Ziewającym Portalem]], wskazuje na drzwi. "Wynocha!" warczy, a członkowie [[Organisations/Gildia Xanathara\|Gildii Xanathara]] uciekają, niosąc nieprzytomnego [[Characters/Krentz\|Krentza]].
 
 ### Troll i Przyjaciele
 

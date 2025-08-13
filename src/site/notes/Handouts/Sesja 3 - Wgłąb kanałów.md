@@ -80,13 +80,13 @@ To pomieszczenie zawiera sześć podartych, wypchanych słomą materacy i nic wa
 
 ### Q5. Sypialnia
 
-To pomieszczenie zawiera sześć podartych, wypchanych słomą materacy i wrogiego członka [[Organisations/Gildia Xanathara\|Gildii Xanathara]], **duergara** o imieniu [[Characters/Zemk\|Zemk]]. Jeśli [[Krentz\|Krentz]] (Chaotyczny zły człowiek **bandyta**) uciekł z Pod Ziewającym Portalem po bójce w tawernie, która rozpoczęła przygodę, również tu jest.
+To pomieszczenie zawiera sześć podartych, wypchanych słomą materacy i wrogiego członka [[Organisations/Gildia Xanathara\|Gildii Xanathara]], **duergara** o imieniu [[Characters/Zemk\|Zemk]]. Jeśli [[Characters/Krentz\|Krentz]] (Chaotyczny zły człowiek **bandyta**) uciekł z Pod Ziewającym Portalem po bójce w tawernie, która rozpoczęła przygodę, również tu jest.
 
-Kiedy postacie przybywają, [[Characters/Zemk\|Zemk]] używa mebli do barykadowania drzwi do obszaru Q6. Jeśli [[Krentz\|Krentz]] tu jest, próbuje wyjaśnić, że podejście [[Characters/Zemk\|Zemka]] nie zadziała, i mówi mu, żeby zatkał szparę u dołu drzwi kocami. Żaden z nich nie zauważy od razu intruzów, chyba że narobią dużo hałasu.
+Kiedy postacie przybywają, [[Characters/Zemk\|Zemk]] używa mebli do barykadowania drzwi do obszaru Q6. Jeśli [[Characters/Krentz\|Krentz]] tu jest, próbuje wyjaśnić, że podejście [[Characters/Zemk\|Zemka]] nie zadziała, i mówi mu, żeby zatkał szparę u dołu drzwi kocami. Żaden z nich nie zauważy od razu intruzów, chyba że narobią dużo hałasu.
 
-Gdy rozpocznie się walka, [[Characters/Zemk\|Zemk]] walczy na śmierć i życie. Reakcja [[Krentz\|Krentza]] na poszukiwaczy przygód zależy od tego, jak potraktowali go wcześniej. Jeśli mu pomogli, da im szansę odejść w pokoju, ale będzie walczył u boku [[Krentz\|Zemka]], jeśli odmówią wycofania się. Jeśli duergar zostanie zabity, [[Krentz\|Krentz]] ucieknie, jeśli będzie mógł, lub podda się, jeśli będzie musiał.
+Gdy rozpocznie się walka, [[Characters/Zemk\|Zemk]] walczy na śmierć i życie. Reakcja [[Characters/Krentz\|Krentza]] na poszukiwaczy przygód zależy od tego, jak potraktowali go wcześniej. Jeśli mu pomogli, da im szansę odejść w pokoju, ale będzie walczył u boku [[Characters/Krentz\|Zemka]], jeśli odmówią wycofania się. Jeśli duergar zostanie zabity, [[Characters/Krentz\|Krentz]] ucieknie, jeśli będzie mógł, lub podda się, jeśli będzie musiał.
 
-Ani [[Characters/Zemk\|Zemk]], ani [[Krentz\|Krentz]] nie mają żadnych skarbów. Obaj podlegają **[[Characters/Grum'shar\|Grum'sharowi]]** (patrz obszar Q7).
+Ani [[Characters/Zemk\|Zemk]], ani [[Characters/Krentz\|Krentz]] nie mają żadnych skarbów. Obaj podlegają **[[Characters/Grum'shar\|Grum'sharowi]]** (patrz obszar Q7).
 
 ### Q6. Latryna
 
