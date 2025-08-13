@@ -51,25 +51,21 @@ Posiadłość tętni życiem, będąc domem dla zróżnicowanej grupy osób.
 ## Towary, usługi i ekonomia
 Posiadłość Czaszki Trolla funkcjonuje jako tawerna, generując dochód (lub straty) dla drużyny.
 
-- **Towary na sprzedaż:** Menu, stworzone przez właścicieli, jest główną atrakcją:
-    - **Gulasz Piracki:** Gumbo z krewetkami i kiełbasą, podawane na ryżu.
-    - **Słoneczne Szaszłyki:** Szaszłyki z kurczaka, pomidora, papryki i cytryny z pieczonymi ziemniakami z cytryną i chlebem pita.
-    - **Pieczeń z Ardeep:** Dzik owinięty boczkiem, podawany z gruszkami pieczonymi z orzechami włoskimi i serem pleśniowym oraz tłuczonymi ziemniakami.
-    - **Il Timpano:** Wyśmienita zapiekanka makaronowa podawana ze świeżo pieczonym chlebem i zieleniną.
-    - **"Lif":** Specjalny, autorski drink z warstwą likieru na dnie i piwem ale na wierzchu, idealnie rozdzielone przez ducha barmana.
-- **Oferowane usługi:** Jedzenie, napoje i nocleg. Służy również jako bezpieczna przystań dla drużyny i ich sojuszników.
-- **Ekonomia:** Rentowność tawerny jest określana przez regularne rzuty kośćmi, modyfikowane przez czynniki takie jak rywalizacja biznesowa, problemy z gildiami i dobra wola opinii publicznej. Początkowe renowacje i bieżąca działalność wymagają poruszania się w skomplikowanej i kosztownej sieci gildii Waterdeep.
-
 ---
 
 ## Historia
 Posiadłość Czaszki Trolla ma długą i bogatą przeszłość:
-- Jej pierwszą właścicielką była **[[Ulkoria Stonemarrow\|Ulkoria Stonemarrow]]**, szanowana krasnoludzka arcymag.
-- Sprzedała ją rodzinie krasnoludów, którzy następnie sprzedali ją **Arissie Mirthkettle**.
-- Mirthkettle przekształciła budynek w sierociniec, ale w sekrecie była wiedźmą, która gotowała i zjadała dzieci.
-- Po odkryciu jej zła, budynek został opuszczony na lata, zyskując reputację nawiedzonego.
-- Półelf o imieniu **Lif** nabył budynek i ponownie przekształcił go w tawernę. Zginął 40 lat temu w tragicznym wypadku, gdy zawaliły się na niego beczki z piwem ale, a jego duch nawiedza posiadłość od tamtej pory.
-- Nieruchomość kilkakrotnie zmieniała właścicieli bez powodzenia, aż została zakupiona na aukcji przez **[[Volothampa Geddarma\|Volothampa Geddarma]]**, który był zainteresowany jej nawiedzoną historią na potrzeby nowej książki. Następnie przekazał akt własności drużynie.
+
+- Jej właścicielką była Ulkoria Stonemarrow. Sprzedała karczmę, by wyruszyć na przygody.
+Sprzedana rodzinie tarczowych krasnoludów. Ci popadli w tarapaty i sprzedali ją kobiecie o imieniu Arissa Mirthkettle.
+- Mirthkettle przekształciła budynek w sierociniec. Okazało się, że była wiedźmą, która gotowała i zjadała dzieci.
+- Następnie budynek stał opuszczony przez kilka lat, nawiedzany przez swoją okropną reputację.
+- Półelf o imieniu [[Lif\|Lif]] przejął budynek i ponownie przekształcił go w karczmę.
+- [[Lif\|Lif]] zginął w strasznym wypadku 40 lat temu, gdy jedna z belek podtrzymujących jego beczki z piwem pękła i zawaliła się na niego.
+- Małżeństwo o nazwisku Morley kupiło posiadłość i próbowało ją ponownie otworzyć, ale nawiedzenie tego miejsca, w połączeniu z recesją gospodarczą, która poprzedziła objęcie przez Lorda [[Dagult Neverember\|Dagulta]] stanowiska Jawnego Lorda, doprowadziło ich do bankructwa.
+- Posiadłość kilkukrotnie zmieniała właścicieli, ale nikt nie podejmował poważnych prób jej zasiedlenia.
+- Niewielki klan niziołków o nazwisku Curlbottom kupił posiadłość około 1476 RD. Nie otworzyli oni karczmy, używając budynku wyłącznie jako rezydencji aż do 1484 RD, kiedy to przenieśli się do Neverwinter, porwani marzeniem Lorda Dagulta o odbudowie miasta.
+- Ostatnio Emmek Frewn próbował kupić posiadłość na publicznej aukcji, jednak został przelicytowany przez [[Characters/Volothamp Geddarm\|Volothampa Geddarma]] (który był zainteresowany zbadaniem jej „nawiedzonej historii” na potrzeby swojej następnej książki).
 
 ---
 
@@ -99,5 +95,4 @@ Reputacja posiadłości zmienia się w trakcie kampanii.
 ### Zaczepki fabularne
 1.  **Kula Ognia:** Główna zaczepka fabularna kampanii wybucha tuż przed drzwiami frontowymi posiadłości, zabijając gnomiego szpiega i kilku agentów Zhentarimów. To wydarzenie zmusza drużynę do przeprowadzenia śledztwa, wciągając ją bezpośrednio w Wielką Grę.
 2.  **Pojawia się rywal:** [[Emmek Frewn\|Emmek Frewn]], wściekły, że został przelicytowany przy zakupie posiadłości, wynajmuje gang szczurołaków, aby zaroić tawernę szczurami i rozpowszechniać plotki w celu zrujnowania jej reputacji.
-3.  **Nocne spotkania:** Używając dodatku "A Night in Trollskull Manor", MG może generować nocne wydarzenia, gości i rozmowy, prowadzące do małych zadań pobocznych, misji frakcyjnych i głębszego zanurzenia w życie miasta.
-4.  **Porwanie:** Jeśli złoczyńcy potrzebują karty przetargowej przeciwko drużynie, jedno z trojga sierot stanowi idealny cel porwania, wymuszając misję ratunkową i podnosząc osobistą stawkę konfliktu.
+3.  **Porwanie:** Jeśli złoczyńcy potrzebują karty przetargowej przeciwko drużynie, jedno z trojga sierot stanowi idealny cel porwania, wymuszając misję ratunkową i podnosząc osobistą stawkę konfliktu.
