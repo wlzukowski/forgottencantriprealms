@@ -44,7 +44,7 @@
     *   [[Characters/Mattrim "Trzystruny" Mereg\|Mattrim "Trzystruny" Mereg]] (Przyjaciel i powiernik; zna jej sekret i chce pomóc jej gangowi osiedlić się w mieście).
     *   **Jej Gang** (Czworo innych sobowtórów, którzy widzą w niej przywódczynię i protektorkę).
 *   **Wrogowie:**
-    *   **[[Szmaragdowa Enklawa\|Szmaragdowa Enklawa]]** (Uważa sobowtóry za nienaturalne zagrożenia, które należy usunąć z miasta).
+    *   **[[Organisations/Szmaragdowa Enklawa\|Szmaragdowa Enklawa]]** (Uważa sobowtóry za nienaturalne zagrożenia, które należy usunąć z miasta).
     *   **[[Organisations/Harfiarze\|Harfiarze]]** (Generalnie podejrzliwi wobec działalności jej gangu, chociaż poszczególni członkowie, jak Mattrim, są przyjaźnie nastawieni).
 *   **Inne powiązania:**
     *   **[[Characters/Durnan\|Durnan]]** (Jej pracodawca w karczmie Pod Ziewającym Portalem, który nie jest świadomy jej prawdziwej natury).

@@ -67,7 +67,7 @@ W pewnym momencie jego życie uratowała elfia zielarka, Fala Lefaliir, wobec kt
 ---
 
 ## Relacje
-- **Sojusznicy:** [[Characters/Davil Starsong\|Davil Starsong]], [[Istrid Horn\|Istrid Horn]], [[Skeemo Weirdbottle\|Skeemo Weirdbottle]], [[Tashlyn Yafeera\|Tashlyn Yafeera]] (Jeźdźcy Zagłady), [[Fala Lefaliir\|Fala Lefaliir]] (dług życia).
+- **Sojusznicy:** [[Characters/Davil Starsong\|Davil Starsong]], [[Istrid Horn\|Istrid Horn]], [[Skeemo Weirdbottle\|Skeemo Weirdbottle]], [[Tashlyn Yafeera\|Tashlyn Yafeera]] (Jeźdźcy Zagłady), [[Characters/Fala Lefaliir\|Fala Lefaliir]] (dług życia).
 - **Rywale:** Inni asasyni i podejrzane postacie w mieście, takie jak te pracujące dla Xanathara lub Manshoona.
 - **Wrogowie:** [[Organisations/Gildia Xanathara\|Gildia Xanathara]], [[Organisations/Zhentarimowie\|Zhentarimowie]] Manshoona i każdy, kto zagraża Jeźdźcom Zagłady.
 - **Rodzina/Bliscy:** Przez krótki czas spotykał się z [[Yagrą Kamienną Pięścią\|Yagrą Kamienną Pięścią]]. Uważa Jeźdźców Zagłady za swoją prawdziwą rodzinę.
@@ -94,7 +94,7 @@ Szeroka publiczność niewiele wie o Ziraju, ale świat przestępczy i władze m
 
 ### Sekrety
 - **Sekret 1:** Zaciekła lojalność Ziraja nie jest skierowana ku samej organizacji Zhentarimów, ale konkretnie ku jego czwórce przyjaciół z Jeźdźców Zagłady. Odwróciłby się od Czarnej Sieci, by ich chronić.
-- **Sekret 2:** Ma dług życia wobec [[Fala Lefaliir\|Fala Lefaliir]] i w tajemnicy ją chroni, odwiedzając jej sklep, kiedy tylko może. Posunąłby się do ostateczności, by spłacić ten dług.
+- **Sekret 2:** Ma dług życia wobec [[Characters/Fala Lefaliir\|Fala Lefaliir]] i w tajemnicy ją chroni, odwiedzając jej sklep, kiedy tylko może. Posunąłby się do ostateczności, by spłacić ten dług.
 - **Sekret 3:** Przez krótki czas spotykał się z [[Characters/Yagra Stonefist\|Yagra Stonefist]]. Chociaż zerwali, wciąż tli się między nimi iskierka dawnego uczucia.
 
 ### Zaczepki Fabularne
@@ -106,5 +106,5 @@ Szeroka publiczność niewiele wie o Ziraju, ale świat przestępczy i władze m
 ### Odgrywanie tego BN-a
 - **Głos i Manieryzmy:** Mówi krótkimi, bezpośrednimi zdaniami. Jest człowiekiem czynu, nie słów. W towarzystwie sojuszników jego stoicyzm może pęknąć, odsłaniając krótki, szeroki uśmiech. Porusza się z cichą pewnością siebie, zawsze obserwując otoczenie jak drapieżnik.
 - **Ideały:** **Lojalność.** „Moi przyjaciele to moje stado. Ich wrogowie to moja zdobycz.”
-- **Więzi:** **Jeźdźcy Zagłady.** „Są jedyną rodziną, jaką mam i jakiej potrzebuję.” **[[Fala Lefaliir\|Fala Lefaliir]].** „Mam wobec niej dług, którego nigdy w pełni nie spłacę.”
+- **Więzi:** **Jeźdźcy Zagłady.** „Są jedyną rodziną, jaką mam i jakiej potrzebuję.” **[[Characters/Fala Lefaliir\|Fala Lefaliir]].** „Mam wobec niej dług, którego nigdy w pełni nie spłacę.”
 - **Słabości:** **Nadmierne poleganie na osądzie przyjaciół.** „Ufam, że moi przyjaciele wybiorą cele. Ja tylko upewniam się, że padną.” Może to sprawić, że bezkrytycznie stanie się narzędziem w ich potencjalnie błędnych planach.

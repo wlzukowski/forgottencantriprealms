@@ -10,7 +10,7 @@
 *   **Charakter:** Chaotyczny Zły
 *   **Przynależność:** [[Organisations/Gildia Xanathara\|Gildia Xanathara]]
 *   **Typowa lokalizacja:** [[Kryjówka Gildii Xanathara\|Kryjówka Gildii Xanathara]] (Kanały pod Dzielnicą Portową)
-*   **Status:** Żywy (na początku Rozdziału 1)
+*   **Status:** Nie żyje (Zabity przez drużynę)
 
 ---
 

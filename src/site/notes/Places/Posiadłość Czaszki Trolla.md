@@ -42,7 +42,7 @@ Posiadłość tętni życiem, będąc domem dla zróżnicowanej grupy osób.
 ### Ważne postacie niezależne (BN-i)
 - **[[Lif\|Lif]]**: Przyjazny, lecz psotny poltergeist byłego półelfiego barmana tawerny. Gdy zostanie uspokojony, staje się doskonałym, choć niematerialnym, barmanem i pomaga w ogólnym utrzymaniu tawerny.
 - **[[Nat\|Nat]], [[Jenks\|Jenks]] i [[Squiddly\|Squiddly]]**: Trójka ulicznych urwisów, których początkowo znaleziono bawiących się w opuszczonej posiadłości. Często są adoptowani przez właścicieli, stając się stałym elementem domostwa i źródłem zarówno radości, jak i komplikacji.
-- **Sąsiedzi:** Bywalcy tawerny to barwna galeria postaci z Zaułka Czaszki Trolla, w tym [[Fala Lefaliir\|Fala Lefaliir]], [[Embric\|Embric]] i [[Avi\|Avi]], [[Rishaal the Page-Turner\|Rishaal the Page-Turner]] oraz prywatny detektyw [[Vincent Trench\|Vincent Trench]].
+- **Sąsiedzi:** Bywalcy tawerny to barwna galeria postaci z Zaułka Czaszki Trolla, w tym [[Characters/Fala Lefaliir\|Fala Lefaliir]], [[Characters/Embric\|Embric]] i [[Characters/Avi\|Avi]], [[Rishaal the Page-Turner\|Rishaal the Page-Turner]] oraz prywatny detektyw [[Characters/Vincent Trench\|Vincent Trench]].
 - **Kontakty frakcyjne:** Posiadłość często służy jako miejsce spotkań dla kontaktów frakcyjnych drużyny, takich jak [[Characters/Yagra Stonefist\|Yagra Stonefist]] z Zhentarimów czy [[Characters/Jalester Silvermane\|Jalester Silvermane]] z Sojuszu Lordów.
 - **[[Characters/Renaer Neverember\|Renaer Neverember]] i przyjaciele:** Renaer i jego krąg towarzyski, w tym [[Characters/Floon Blagmaar\|Floon Blagmaar]], są częstymi i mile widzianymi gośćmi, wnosząc odrobinę szlacheckiego stylu i intrygi.
 
@@ -56,16 +56,16 @@ Posiadłość Czaszki Trolla funkcjonuje jako tawerna, generując dochód (lub s
 ## Historia
 Posiadłość Czaszki Trolla ma długą i bogatą przeszłość:
 
-- Jej właścicielką była Ulkoria Stonemarrow. Sprzedała karczmę, by wyruszyć na przygody.
-Sprzedana rodzinie tarczowych krasnoludów. Ci popadli w tarapaty i sprzedali ją kobiecie o imieniu Arissa Mirthkettle.
-- Mirthkettle przekształciła budynek w sierociniec. Okazało się, że była wiedźmą, która gotowała i zjadała dzieci.
-- Następnie budynek stał opuszczony przez kilka lat, nawiedzany przez swoją okropną reputację.
-- Półelf o imieniu [[Lif\|Lif]] przejął budynek i ponownie przekształcił go w karczmę.
-- [[Lif\|Lif]] zginął w strasznym wypadku 40 lat temu, gdy jedna z belek podtrzymujących jego beczki z piwem pękła i zawaliła się na niego.
-- Małżeństwo o nazwisku Morley kupiło posiadłość i próbowało ją ponownie otworzyć, ale nawiedzenie tego miejsca, w połączeniu z recesją gospodarczą, która poprzedziła objęcie przez Lorda [[Dagult Neverember\|Dagulta]] stanowiska Jawnego Lorda, doprowadziło ich do bankructwa.
-- Posiadłość kilkukrotnie zmieniała właścicieli, ale nikt nie podejmował poważnych prób jej zasiedlenia.
-- Niewielki klan niziołków o nazwisku Curlbottom kupił posiadłość około 1476 RD. Nie otworzyli oni karczmy, używając budynku wyłącznie jako rezydencji aż do 1484 RD, kiedy to przenieśli się do Neverwinter, porwani marzeniem Lorda Dagulta o odbudowie miasta.
-- Ostatnio Emmek Frewn próbował kupić posiadłość na publicznej aukcji, jednak został przelicytowany przez [[Characters/Volothamp Geddarm\|Volothampa Geddarma]] (który był zainteresowany zbadaniem jej „nawiedzonej historii” na potrzeby swojej następnej książki).
+- Należała do Ulkorii Stonemarrow, która sprzedała ją, by wyruszyć na przygodę.  
+- Gospoda została sprzedana rodzinie krasnoludów tarczowych. Popadli oni w tarapaty i sprzedali ją kobiecie o imieniu Arissa Mirthkettle.  
+- Mirthkettle przekształciła budynek w sierociniec. Okazało się, że była wiedźmą, która gotowała i zjadała dzieci.  
+- Następnie budynek stał opuszczony przez kilka lat, nawiedzany przez swą straszną reputację.  
+- Półelf o imieniu Lif przejął budynek i ponownie przekształcił go w gospodę.  
+- Lif zginął w tragicznym wypadku 40 lat temu, gdy jedna z belek podtrzymujących jego beczki z piwem pękła i zawaliła się na niego.  
+- Nieruchomość kupiła para o nazwisku Morley i próbowała ją ponownie otworzyć, lecz nawiedzenie posiadłości, w połączeniu z recesją gospodarczą, która poprzedziła objęcie przez Lorda Dagulta tytułu Jawnego Lorda, doprowadziło ich do bankructwa.  
+- Posiadłość kilkukrotnie zmieniała właścicieli, ale nikt nie podjął poważnej próby jej zasiedlenia.  
+- Mały klan niziołków o nazwisku Curlbottom kupił posiadłość około 1476 RD. Nie otworzyli ponownie gospody, używając jej wyłącznie jako miejsca zamieszkania aż do 1484 RD, kiedy to przenieśli się do Neverwinter, porwani marzeniem Lorda Dagulta o odbudowie miasta.  
+- Całkiem niedawno Emmek Frewn próbował kupić posiadłość na publicznej aukcji, został jednak przelicytowany przez Volothampa Geddarma (który był zainteresowany zbadaniem jej „nawiedzonej historii” na potrzeby swojej następnej książki).
 
 ---
 

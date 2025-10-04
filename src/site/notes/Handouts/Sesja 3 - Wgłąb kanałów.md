@@ -16,7 +16,7 @@ Zapytać co myśli postać -> check -> kilkadziesiąt metrów za nimi niewielka 
 ## Tropienie Floona
 
 **TROPENIE:** W kanałach wymagane są trzy udane testy Mądrości (Sztuka przetrwania) o ST 13. W razie niepowodzenia bohaterowie graczy (BG) tracą sporo czasu, musząc się cofnąć i na nowo podjąć trop. Jeśli BG trzykrotnie nie zdadzą testu, **stracą zbyt wiele czasu**: gdy dotrą do kryjówki, zastaną ją opuszczoną, z wyjątkiem goblińskich strażników w K2 i Zemka, stałego strażnika kryjówki, w K5. Martwe ciało Floona leży w K7. (Zemk wrzuci je do kanałów później tego samego dnia, gdy znajdzie na to czas).  
-Jednakże za każdym razem, gdy BG wykonują test tropienia, niezależnie od jego wyniku, mogą również wykonać test Mądrości (Spostrzegawczość) o ST 13, by zauważyć znak gildii (patrz niżej).  
+Jednakże za każdym razem, gdy BG wykonują test tropienia, niezależnie od jego wyniku, mogą również wykonać test Mądrości (Spostrzegawczość) o ST 13, by zauważyć znak gildii (patrz niżej).x`  
 (Uwaga: Nawet jeśli BG zdołają odzyskać jedynie martwe ciało Floona, Volo, choć trochę nimi zawiedziony, i tak wynagrodzi ich za ukończenie misji).
 
 **ZNAK GILDII:** Na każdym skrzyżowaniu tuneli w kanałach znajdują się nabazgrane żółtą kredą symbole – stylizowane przedstawienie Xanathara. Wskazują one ścieżkę, którą należy podążać, a kierunek wyznacza spojrzenie głównego oka symbolu. Gdy tylko BG dowiedzą się o istnieniu znaku gildii, mogą po prostu podążać za nim aż do kryjówki.
