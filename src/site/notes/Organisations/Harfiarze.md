@@ -114,6 +114,7 @@ Harfiarze to dobrze znana, lecz słabo rozumiana organizacja. Prości ludzie, kt
 2.  **Diabelska Kapliczka:** Harfiarze odkryli dowody na działalność diabelskiego kultu w niepozornym domu w Dzielnicy Północnej (Kapliczka Asmodeusza) i wynajmują bohaterów, by zbadali sprawę.
 3.  **Dylemat Moralny:** Starszy agent Harfiarzy, Dain, rozkazuje bohaterom zlikwidować komórkę Zhentarimów w Żółtej Igllicy. Bohaterowie odkrywają, że Zhentarimowie mają legalny akt własności i nie stanowią bezpośredniego zagrożenia, co zmusza ich do wyboru między rozkazami a sumieniem.
 4.  **Oskarżony Przyjaciel:** Główny kontakt drużyny, [[Characters/Mirt\|Mirt]], zostaje oskarżony o bycie podwójnym agentem Zhentarimów. Bohaterowie muszą ścigać się z czasem, aby oczyścić jego imię, zanim zostanie usunięty przez własną organizację.
+5.  **Skok na Kasyno (Sesja 5 — Zakończone ✅):** [[Characters/Mirt\|Mirt]], działając jako zamaskowany Lord Waterdeep, zlecił drużynie infiltrację i obrabowanie Kasyna Zaświaty — przybytku [[Organisations/Ród Cassalanterów\|Cassalanterów]]. Misja zakończona sukcesem: drużyna zdobyła złoto ze skarbca i Statuetkę Mefistofelesa, zadając Cassalanterom poważny cios finansowy i wizerunkowy.
 
 ### Ważne Postacie Niezależne
 - **[[Remallia Haventree\|Remallia Haventree]]:** De facto przywódczyni i patronka Harfiarzy z Waterdeep. Wdowa po słonecznym elfie, działa ze swojej chronionej magicznie posiadłości, Willi Ulbrinterów, i komunikuje się za pomocą *srebrnej figurki kruka*.

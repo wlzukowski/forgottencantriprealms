@@ -8,7 +8,7 @@
 | **Typ**           | Ród szlachecki i tajne stowarzyszenie (Kult Asmodeusza)                                                                |
 | **Charakter**     | Praworządny zły                                                                                                        |
 | **Zasięg/Wpływy** | Lokalny (Waterdeep)                                                                                                    |
-| **Przywódcy**     | [[Victoro Cassalanter\|Victoro Cassalanter]], [[Ammalia Cassalanter\|Ammalia Cassalanter]]                                                                       |
+| **Przywódcy**     | [[Victoro Cassalanter\|Victoro Cassalanter]], [[Characters/Ammalia Cassalanter\|Ammalia Cassalanter]]                                                                       |
 | **Siedziba**      | [[Willa Cassalanterów\|Willa Cassalanterów]]                                                                                                |
 | **Symbol**        | Zielona litera Y nachodząca na stylizowany wizerunek karmionej gęsi (Herb publiczny); Symbol Asmodeusza (Symbol kultu) |
 
@@ -48,7 +48,7 @@ Ich los finansowy cudownie się odwrócił, a Cassalanterowie odnieśli większy
 **Lord Victoro i Lady Ammalia Cassalanter** są wspólnymi głowami zarówno swojego rodu szlacheckiego, jak i tajnego kultu. Victoro zajmuje się poszukiwaniami Skarbca Smoków, podczas gdy Ammalia planuje ofiarną ucztę.
 
 ### Rangi
-- **Wewnętrzny krąg:** Najbardziej zaufani poplecznicy i główni służący Cassalanterów, w tym [[Willifort Crowelle\|Willifort Crowelle]], [[Tissina Khyret\|Tissina Khyret]], [[Laiba Rosse\|Laiba Rosse]] i [[Jandar Chergoba\|Jandar Chergoba]]. Są świadomi tajemnic rodziny i pomagają w działaniach kultu.
+- **Wewnętrzny krąg:** Najbardziej zaufani poplecznicy i główni służący Cassalanterów, w tym [[Characters/Willifort Crowelle\|Willifort Crowelle]], [[Tissina Khyret\|Tissina Khyret]], [[Laiba Rosse\|Laiba Rosse]] i [[Jandar Chergoba\|Jandar Chergoba]]. Są świadomi tajemnic rodziny i pomagają w działaniach kultu.
 - **Fanatycy kultu:** Oddani członkowie, którzy prowadzą rytuały i egzekwują wolę Cassalanterów.
 - **Kultyści:** Szeregowi członkowie, składający się z innych złych szlachciców i omamionych plebejuszy poszukujących władzy lub bogactwa.
 
@@ -59,10 +59,10 @@ Kult Cassalanterów jest monolityczną organizacją, spajaną absolutną władz�
 
 ## Zasoby i aktywa
 - **Zasoby militarne:** Oddział lojalnej Gwardii Rodowej patroluje willę. Mogą również przyzywać i rozkazywać diabłom, w tym impom i diabłom brodatym.
-- **Zasoby ekonomiczne:** Dobrze prosperujący biznes bankowy i pożyczkowy. Wystawna [[Willa Cassalanterów\|Willa Cassalanterów]] w Dzielnicy Morskiej. Znaczne aktywa płynne, ale niewystarczające, by sprostać cenie Asmodeusza bez zdefraudowanego złota.
+- **Zasoby ekonomiczne:** Dobrze prosperujący biznes bankowy i pożyczkowy. Wystawna [[Willa Cassalanterów\|Willa Cassalanterów]] w Dzielnicy Morskiej. Znaczne aktywa płynne, ale niewystarczające, by sprostać cenie Asmodeusza bez zdefraudowanego złota. **Kasyno Zaświaty** — luksusowy przybytek hazardowy w jaskiniach morskich na północ od Waterdeep, zarządzany przez [[Characters/Willifort Crowelle\|Quentina]] (Doppelgangera). Służyło do prania pieniędzy i artefaktów. Obrabowane podczas sesji 5 — poniosło poważne straty finansowe.
 - **Zasoby polityczne:** Silna reputacja filantropów i pobożnych obywateli daje im znaczące wpływy społeczne i polityczne. Mogą wpływać na miejskich sędziów.
-- **Zasoby magiczne:** Zarówno Victoro, jak i Ammalia są potężnymi zaklinaczami. Posiadają jedno z Oczu *Kamienia Golorra*. Ich świątynia zawiera potężną misę ofiarną, a Ammalia dysponuje zapasem rzadkiej trucizny znanej jako *łzy północy*.
-- **Personel:** Pełna obsługa domowa (większość nieświadoma istnienia kultu), kilku wysokich rangą kultystów pełniących funkcję głównego personelu oraz zgromadzenie dziesiątek kultystów. Ich główny lokaj, [[Willifort Crowelle\|Willifort Crowelle]], jest sobowtórem.
+- **Zasoby magiczne:** Zarówno Victoro, jak i Ammalia są potężnymi zaklinaczami. Posiadają jedno z Oczu *Kamienia Golorra*. Ich świątynia zawiera potężną misę ofiarną, a Ammalia dysponuje zapasem rzadkiej trucizny znanej jako *łzy północy*. ~~Statuetka Mefistofelesa~~ — mroczny artefakt powiązany z paktem z Asmodeuszem, skradziony przez drużynę graczy.
+- **Personel:** Pełna obsługa domowa (większość nieświadoma istnienia kultu), kilku wysokich rangą kultystów pełniących funkcję głównego personelu oraz zgromadzenie dziesiątek kultystów. Ich główny lokaj, [[Characters/Willifort Crowelle\|Willifort Crowelle]], jest sobowtórem. [[Characters/Willifort Crowelle\|Willifort Crowelle]] pełni też rolę "Quentina" — zarządcy Kasyna Zaświaty.
 
 ---
 
@@ -111,15 +111,18 @@ Cassalanterowie są publicznie postrzegani jako cnotliwi, hojni i wpływowi szla
 - **Spisek na Dzień Założycieli:** Planują otruć 99 osób na swojej uczcie z okazji Dnia Założycieli jako masową ofiarę, by wypełnić warunki paktu.
 - **Lokaj-sobowtór:** Willifort Crowelle, ich lojalny główny lokaj, jest sobowtórem.
 - **Pierwsze Oko:** Cassalanterowie już posiadają jedno z trzech Oczu *Kamienia Golorra*, które ukradli z Mauzoleum Brandathów.
+- **Kasyno Zaświaty:** Luksusowy przybytek hazardowy zarządzany przez [[Characters/Willifort Crowelle\|Quentina]] (Doppelgangera). Służy do prania pieniędzy i artefaktów. Organizują tam ustawione turnieje z potężnymi przedmiotami jako nagrodami.
 
 ### Zaczepki fabularne
-1.  **Prośba o pomoc:** Cassalanterowie zapraszają BG do swojej willi i opowiadają im zmodyfikowaną wersję swojej historii: ich dzieci zostały przeklęte przez kultystów Asmodeusza i mogą zostać ocalone jedynie przez zapłatę „miliona złotych monet bez jednej”. Proszą BG o pomoc w zdobyciu złota ze Skarbca Smoków.
+1.  **Prośba o pomoc:** Cassalanterowie zapraszają BG do swojej willi i opowiadają im zmodyfikowaną wersję swojej historii: ich dzieci zostały przeklęte przez kultystów Asmodeusza i mogą zostać ocalone jedynie przez zapłatę „miliona złotych monet bez jednej". Proszą BG o pomoc w zdobyciu złota ze Skarbca Smoków.
 2.  **Zaniepokojenie [[Organisations/Harfiarze\|Harfiarze]]:** Kontakt z [[Organisations/Harfiarze\|Harfiarze]] (np. [[Characters/Mirt\|Mirt]] lub agent niższego szczebla) dowiaduje się o działalności kultu Asmodeusza w Dzielnicy Północnej i wynajmuje BG do zbadania ich placówki, [[Kaplica Asmodeusza\|Kaplicy Asmodeusza]], co potencjalnie może ujawnić zaangażowanie Cassalanterów.
-3.  **Skradzione Oko:** Gdy BG zdobędą *Kamień Golorra*, Cassalanterowie będą go potrzebować, aby znaleźć Skarbiec. Jeśli BG są ich sojusznikami, ujawnią, że mają jedno z Oczu. Jeśli nie, mogą wysłać swój zespół interwencyjny, dowodzony przez [[Willifort Crowelle\|Williforta Crowelle'a]], aby ukraść Kamień BG.
+3.  **Skradzione Oko:** Gdy BG zdobędą *Kamień Golorra*, Cassalanterowie będą go potrzebować, aby znaleźć Skarbiec. Jeśli BG są ich sojusznikami, ujawnią, że mają jedno z Oczu. Jeśli nie, mogą wysłać swój zespół interwencyjny, dowodzony przez [[Characters/Willifort Crowelle\|Williforta Crowelle'a]], aby ukraść Kamień BG.
 4.  **Przerażenie sługi:** Sługa z willi ucieka w przerażeniu po tym, jak był świadkiem rytuału kultu lub usłyszał krzyki ze strychu. Szuka ochrony u BG, oferując sekrety w zamian za bezpieczeństwo.
+5.  **Odwet za Kasyno (Aktywne po sesji 5):** Cassalanterowie są wściekli po obrabowaniu Kasyna Zaświaty. Stracili złoto ze skarbca i Statuetkę Mefistofelesa — artefakt kluczowy dla paktu z Asmodeuszem. Mogą wysłać [[Characters/Willifort Crowelle\|Quentina]], diabły lub agentów kultu, by wytropili drużynę i odzyskali łup.
 
 ### Ważni BN-i
 - **[[Victoro Cassalanter\|Victoro Cassalanter]]:** Chłodno kalkulujący i bezwzględny kapłan Asmodeusza. Jest pragmatyczną twarzą operacji, skupioną na zdobyciu złota.
-- **[[Ammalia Cassalanter\|Ammalia Cassalanter]]:** Przebiegła i próżna czarodziejka. Jej żal i desperacja czynią ją niebezpiecznie nieprzewidywalną. To ona organizuje masowe morderstwo.
-- **[[Willifort Crowelle\|Willifort Crowelle]]:** Główny lokaj i sobowtór. Całkowicie lojalny, jest głównym agentem Cassalanterów do spraw szpiegostwa, zabójstw i innej mokrej roboty.
+- **[[Characters/Ammalia Cassalanter\|Ammalia Cassalanter]]:** Przebiegła i próżna czarodziejka. Jej żal i desperacja czynią ją niebezpiecznie nieprzewidywalną. To ona organizuje masowe morderstwo.
+- **[[Characters/Willifort Crowelle\|Willifort Crowelle]]:** Główny lokaj i sobowtór. Całkowicie lojalny, jest głównym agentem Cassalanterów do spraw szpiegostwa, zabójstw i innej mokrej roboty.
+- *(Patrz [[Characters/Willifort Crowelle\|Willifort Crowelle]] — prowadzi kasyno jako "Quentin Togglepocket". Widział uciekającą drużynę po napadzie.)*
 - **[[Osvaldo Cassalanter\|Osvaldo Cassalanter]]:** Najstarszy syn Cassalanterów, teraz obłąkany diabeł łańcuchowy uwięziony na strychu willi. Jego udręczone wycie jest stałym, ukrywanym wstydem.

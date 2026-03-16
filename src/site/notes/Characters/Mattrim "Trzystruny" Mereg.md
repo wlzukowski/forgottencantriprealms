@@ -44,6 +44,7 @@
     *   **[[Characters/Bonnie\|Bonnie]]:** Barmanka-sobowtór z karczmy [[Pod Ziewającym Portalem\|Pod Ziewającym Portalem]], z którą Mattrim się zaprzyjaźnił i którą pragnie chronić.
     *   **[[Organisations/Harfiarze\|Harfiarze]]:** Jego frakcja. Zna kryjówkę zwaną Twierdzą Dalagora w Czaszkoporcie.
     *   **[[Cal'al Claddani\|Cal'al Claddani]]:** Pół-drow, agent Harpersów w Czaszkoporcie, z którym Mattrim współpracuje.
+    * **Faelynn:** Romantyczna więź, teraz lekko skonfliktowana przez jej długą nieobecność. Podczas sesji 5 doszło do pierwszego od czterech miesięcy spotkania. Mattrim zachował profesjonalizm, pomógł w transporcie łodzią podczas Skoku na Kasyno i zapowiedział poważną rozmowę "po wszystkim". Obiecał czekać na drużynę 24 godziny.
 *   **Wrogowie:**
     *   **[[Organisations/Zhentarimowie\|Zhentarimowie]]:** Aktywnie szpieguje ich agentów w karczmie [[Pod Ziewającym Portalem\|Pod Ziewającym Portalem]].
 *   **Inne znajomości:**
@@ -82,3 +83,9 @@ Podczas pobytu w gospodzie zaprzyjaźnił się z barmanką-sobowtórem, Bonnie, 
 *   Główną rolą Mattrima jest bycie źródłem informacji i przyjazną twarzą dla Harfiarzy. Jego niepozorna natura czyni go idealnym szpiegiem.
 *   Jego przyjaźń z Bonnie to kluczowa relacja. Można ją wykorzystać do wprowadzenia wątku sobowtórów lub do stworzenia osobistych stawek dla BG, jeśli się z nim zaprzyjaźnią.
 *   Ujawnienie jego prawdziwych kompetencji i statusu jako starszego rangą Harfiarzy może być mocnym momentem pod koniec kampanii, całkowicie zmieniając postrzeganie relacji BG z tym głupkowatym bardem, którego poznali na początku swojej przygody.
+
+### Notatki z Sesji 5
+*   Mattrim pomógł drużynie w transporcie łodzią podczas Skoku na Kasyno Zaświaty.
+*   Doszło do pierwszego spotkania z Faelynn od czterech miesięcy - atmosfera napięta, ale profesjonalna.
+*   Zapowiedział poważną rozmowę z Faelynn "po wszystkim" i obiecał czekać 24 godziny.
+*   **Do rozegrania:** Rozmowa Mattrima z Faelynn - potencjalny moment emocjonalny i fabularny w następnej sesji.
